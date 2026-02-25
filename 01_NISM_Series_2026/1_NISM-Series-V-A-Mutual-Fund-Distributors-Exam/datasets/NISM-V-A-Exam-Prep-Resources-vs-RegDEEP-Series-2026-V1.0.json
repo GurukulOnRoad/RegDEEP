@@ -170,7 +170,7 @@
     {
       "@type": "DataDownload",
       "encodingFormat": "application/json",
-      "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/1_NISM-Series-V-A-Mutual-Fund-Distributors-Exam/datasets/NISM-V-A-Exam-Prep-Resources-vs-RegDEEP-Series-2026-V1.0.json"
+      "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/01_NISM_Series_2026/1_NISM-Series-V-A-Mutual-Fund-Distributors-Exam/datasets/NISM-V-A-Exam-Prep-Resources-vs-RegDEEP-Series-2026-V1.0.json"
     }
   ],
 
