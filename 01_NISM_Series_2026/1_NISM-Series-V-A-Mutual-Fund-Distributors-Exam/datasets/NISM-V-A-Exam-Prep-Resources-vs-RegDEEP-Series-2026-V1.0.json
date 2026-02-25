@@ -1,0 +1,703 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats",
+  "url": "https://learn.gurukulonroad.com/courses/NISM-Series-V-A-Mutual-Fund-Distributors-RegDEEP-Rank-Separator-Online-Mock-Test-Series-2026-699d7f99e14e3747ecd1ce24",
+  "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Comparison Table Dataset)",
+  "description": "A comprehensive, row-by-row comparison dataset captured from the HTML table: Online Mock Tests vs Video Courses vs YouTube Prep vs RegDEEP™ Series 2026. All cell text is preserved. Emoji indicators are replaced with schema-safe text markers: [STRONG], [PARTIAL], [WEAK].",
+  "identifier": "Market-Cluster-Comparison-NISM-V-A-Exam-Prep-Resources-vs-RegDEEP-Series-2026",
+  "inLanguage": "en-IN",
+  "datePublished": "2026-02-25",
+  "dateModified": "2026-02-25",
+  "version": "1.0",
+  "keywords": [
+    "NISM V-A",
+    "Mutual Fund Distributors",
+    "comparison table",
+    "online mock tests",
+    "video courses",
+    "YouTube prep",
+    "RegDEEP",
+    "exam preparation",
+    "assessment framework",
+    "decision-making under ambiguity"
+  ],
+  "creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+  "publisher": {
+    "@type": "EducationalOrganization",
+    "@id": "https://learn.gurukulonroad.com/#organization",
+    "name": "Learn@Gurukul The Universal Learning Hub for GurukulOnRoad Ecosystem - Online Mock Test, eLearning, & Hindi AI Literacy",
+    "url": "https://learn.gurukulonroad.com/"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "owner": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "sourceOrganization": {
+    "@type": "GovernmentOrganization",
+    "additionalType": "Professional Body",
+    "name": "The National Institute of Securities Markets (NISM)",
+    "alternateName": "NISM",
+    "url": "https://www.nism.ac.in/certifications/"
+  },
+  "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+
+  "isPartOf": [
+    {
+      "@type": "CreativeWork",
+      "name": "RegDEEP™ - Regulatory Decoding & Explanation for Exam Purpose™",
+      "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://www.gurukulonroad.com/#regdeep-googleplay-series26",
+      "url": "https://play.google.com/store/books/series?id=zCSYHAAAABBVOM",
+      "name": "RegDEEP™ NISM Exam Prep Series 2026 Built on Rank Separator & Assessment Intent Framework",
+      "description": "RegDEEP™ NISM Exam Prep Series 2026 is a focused, examiner-aligned preparation series designed exclusively for NISM certification examinations. The series applies the RegDEEP™ (Regulatory Decoding & Explanation for Exam Purpose) framework to transform official NISM curricula, test objectives, and regulatory material into exam-ready understanding and defensible decision-making ability. Each title in the series trains candidates to recognize concepts accurately, differentiate near-identical provisions, and apply correct regulatory logic under ambiguity -reflecting how NISM exams are actually constructed and evaluated. This series is intended for serious learners seeking clarity, elimination skill, and consistency under exam pressure, rather than rote memorization or shortcut-based preparation.",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "NISM Certification Exams in Securities Market & Finance",
+          "@id": "https://www.gurukulonroad.com/#nism-mandatory",
+          "url": "https://www.nism.ac.in/certifications/",
+          "description": "Mandatory NISM Certification Examinations for associated persons in the securities market intermediaries in India."
+        },
+        {
+          "@type": "Thing",
+          "name": "SEBI's Master Circulars",
+          "@id": "https://www.gurukulonroad.com/#sebi-master-circulars",
+          "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=6&smid=0",
+          "description": "SEBI's Master Circulars mandating NISM certification for Market Intermediaries and associated person in Indian Securities Market"
+        }
+      ],
+      "sameAs": "https://www.amazon.com/dp/B0GMSC168C"
+    },
+    {
+      "@type": "CreativeWork",
+      "additionalType": "Product",
+      "@id": "https://learn.gurukulonroad.com/courses/NISM-Series-V-A-Mutual-Fund-Distributors-RegDEEP-Rank-Separator-Online-Mock-Test-Series-2026-699d7f99e14e3747ecd1ce24#product",
+      "url": "https://learn.gurukulonroad.com/courses/NISM-Series-V-A-Mutual-Fund-Distributors-RegDEEP-Rank-Separator-Online-Mock-Test-Series-2026-699d7f99e14e3747ecd1ce24",
+      "name": "NISM-Series-V-A: Mutual Fund Distributors RegDEEP™ Rank Separator Online Mock Test Series 2026"
+    },
+    {
+      "@type": "CreativeWork",
+      "additionalType": "Course",
+      "@id": "https://learn.gurukulonroad.com/courses/NISM-Series-V-A-Mutual-Fund-Distributors-RegDEEP-Rank-Separator-Online-Mock-Test-Series-2026-699d7f99e14e3747ecd1ce24#course",
+      "url": "https://learn.gurukulonroad.com/courses/NISM-Series-V-A-Mutual-Fund-Distributors-RegDEEP-Rank-Separator-Online-Mock-Test-Series-2026-699d7f99e14e3747ecd1ce24",
+      "name": "NISM-Series-V-A: Mutual Fund Distributors RegDEEP™ Rank Separator Online Mock Test Series 2026"
+    },
+    {
+      "@type": "Book",
+      "@id": "https://www.gurukulonroad.com/#book-nismva-2026",
+      "name": "Rank Separator Mock Test Guide for NISM-Series-V-A: Mutual Fund Distributors Exam",
+      "sameAs": [
+        "https://books.google.co.in/books?id=_vbAEQAAQBAJ",
+        "https://www.amazon.in/dp/9376500199",
+        "https://www.amazon.in/dp/B0GMYXZX3L",
+        "https://www.amazon.com/dp/B0GMYXZX3L",
+        "https://www.goodreads.com/book/show/247901590-rank-separator-mock-test-guide-for-nism-series-v-a"
+      ]
+    }
+  ],
+
+  "isBasedOn": [
+    {
+      "@type": "CreativeWork",
+      "name": "Independent Market Research",
+      "datePublished": "2026-02-25",
+      "description": "Aggregation of publicly available data for various courses, mock test and YouTube videos available in public domain for NISM V-A Mutual Fund Distributor Certification Exam Preparation comparing with the official test objectives outlined by NISM for 2026 exams applicable from January 2026."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Test Objectives - NISM-Series-V-A: Mutual Fund Distributors Certification Examination (English)",
+      "@id": "https://www.gurukulonroad.com/#nism-va-official-test-objectives",
+      "url": "https://www.nism.ac.in/test-objectives-mutual-fund-distributors/",
+      "description": "The official test objectives published by NISM outline the learning outcomes, knowledge areas, and assessment intent for the Mutual Fund Distributors Certification Examination."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "Official 2026 Curriculum - NISM-Series-V-A: Mutual Fund Distributors Certification Examination (English)",
+      "@id": "https://www.gurukulonroad.com/#nism-va-official-curriculum",
+      "url": "https://www.nism.ac.in/curriculum-mutual-fund-distributors/",
+      "description": "The official curriculum prescribed by NISM for the Mutual Fund Distributors Certification Examination, detailing syllabus coverage, topic weightage, and conceptual scope applicable for the 2026 examination cycle."
+    }
+  ],
+
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "India"
+  },
+
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "@id": "https://www.gurukulonroad.com/#dataset",
+    "name": "GurukulOnRoad RegDEEP Regulatory Dataset Catalog",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+  },
+
+  "usageInfo": "An Illustrative independent research based comprehensive, row-by-row comparison dataset table on Online Mock Tests vs Video Courses vs YouTube Prep vs RegDEEP™ Series 2026. Not official NISM data or document.",
+  "isAccessibleForFree": true,
+
+  "variableMeasured": [
+    "USP / Decision Factor (Rows)",
+    "RegDEEP™ Series 2026",
+    "Typical Online Mock Tests",
+    "Typical Video Courses",
+    "Typical YouTube Prep"
+  ],
+"hasPart": [
+
+      {
+        "@type": "Dataset",
+       "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+        "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)",
+        "identifier": "Market-Cluster-Comparison-NISM-V-A-Exam-Prep-Resources-vs-RegDEEP-Series-2026",
+        "description": "Row-by-row comparison dataset. Legend markers: [STRONG], [PARTIAL], [WEAK]."
+}
+],
+
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/1_NISM-Series-V-A-Mutual-Fund-Distributors-Exam/datasets/NISM-V-A-Exam-Prep-Resources-vs-RegDEEP-Series-2026-V1.0.json"
+    }
+  ],
+
+ "mainEntity": {
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+  "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)",
+  "description": "Row-by-row comparison dataset. Legend markers: [STRONG], [PARTIAL], [WEAK].",
+  "variableMeasured": [
+    "USP / Decision Factor (Rows)",
+    "RegDEEP™ Series 2026",
+    "Typical Online Mock Tests",
+    "Typical Video Courses",
+    "Typical YouTube Prep"
+  ],
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats",
+         "url": "https://learn.gurukulonroad.com/courses/NISM-Series-V-A-Mutual-Fund-Distributors-RegDEEP-Rank-Separator-Online-Mock-Test-Series-2026-699d7f99e14e3747ecd1ce24",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Comparison Table Dataset)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Legend",
+      "value": "[STRONG] Strong | [PARTIAL] Partial/depends | [WEAK] Weak/rare"
+    }
+  ],
+"hasPart": [
+
+      {
+        "@type": "Dataset",
+        "name": "Row 1 - Core outcome",
+        "identifier": "row-1-core-outcome",
+        "description": "Core outcome: The overall outcome of all available exam prep resources for NISM V-A vs RegDEEP™ Series 2026",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Core outcome" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Exam-grade Decision training (clarity → integration → judgment → precision)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "Passing via practice volume" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "Understanding via teaching" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "Quick tips / hacks" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 2 - Cognitive progression (structured levels/tracks)",
+        "identifier": "row-2-cognitive-progression",
+        "description": "Cognitive progression (structured levels/tracks with staged difficulty and layered decision-building approach) moving from recall to judgment and precision thinking",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Cognitive progression (structured levels/tracks)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] 4-track ladder R-CW → R-AI → R-MAT → R-QI (explicit progression)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Often flat (mixed difficulty, no staged cognition)" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Linear (lecture → quiz)" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK] Random" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 3 - Exam ambiguity handling & elimination logic",
+        "identifier": "row-3-ambiguity-elimination",
+        "description": "Exam ambiguity handling & elimination logic under near-correct option traps and subtle framing shifts in complex, multi-layered regulatory scenarios",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Exam ambiguity handling & elimination logic" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Designed for “near-correct option” traps + ambiguity tolerance" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Sometimes" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Explained conceptually" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK] Rarely systematic" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 4 - Regulatory intent lens (investor-protection framing)",
+        "identifier": "row-4-regulatory-intent",
+        "description": "Regulatory intent lens (investor-protection framing) through structured decision training.",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Regulatory intent lens (investor-protection framing)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Regulator-thinking alignment (judgment > recall)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Varies" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Varies" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK] Mostly missing" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 5 - Cross-unit integration (NAV+TER+tax+suitability in one scenario)",
+        "identifier": "row-5-cross-unit-integration",
+        "description": "Cross-unit integration (NAV+TER+tax+suitability in one scenario)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+        "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Cross-unit integration (NAV+TER+tax+suitability in one scenario)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] R-AI integrated mock tests + cross-unit numericals" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Occasional" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Usually taught separately" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK] Fragmented" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 6 - Numericals depth (NAV/TER/ratios/tax computation & interpretation)",
+        "identifier": "row-6-numericals-depth",
+        "description": "Numericals depth (NAV/TER/ratios/tax computation & interpretation)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Numericals depth (NAV/TER/ratios/tax computation & interpretation)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Dedicated R-QI numeric zone + interpretation + judgment layer" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Basic numericals" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Worked examples" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[PARTIAL] Selective" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 7 - Tax rules freshness anchors (holding period + July 23, 2024 switch)",
+        "identifier": "row-7-tax-freshness",
+        "description": "Tax rules freshness anchors (holding period + July 23, 2024 switch)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Tax rules freshness anchors (holding period + July 23, 2024 switch)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Explicit “date-switch traps” (old vs new rates) baked into design" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Often outdated unless updated" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Update depends" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[PARTIAL] Mixed" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 8 - Equity vs non-equity classification clarity (65% rule)",
+        "identifier": "row-8-65-percent-rule",
+        "description": "Equity vs non-equity classification clarity (65% rule)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+        "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Equity vs non-equity classification clarity (65% rule)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Dictionary + explanations lock terminology + classification traps" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Varies" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[STRONG] Usually explained" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[PARTIAL] Mixed" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 9 - Set-off logic / bonus stripping / stamp duty edge cases",
+        "identifier": "row-9-edge-cases",
+        "description": "Set-off logic / bonus stripping / stamp duty edge cases",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Set-off logic / bonus stripping / stamp duty edge cases" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Examiner-grade edge cases (trap-rich zones)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Often skipped" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Sometimes covered" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK] Rare" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 10 - Daily disclosure logic (NAV + TER) as an examinable behavior",
+        "identifier": "row-10-daily-disclosure",
+        "description": "Daily disclosure logic (NAV + TER) as an examinable behavior",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Daily disclosure logic (NAV + TER) as an examinable behavior" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Built around “what investor must track” (NAV, TER disclosure discipline)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Sometimes mentioned" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Mentioned" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK] Rare" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 11 - Benchmarking literacy (PRI vs TRI + credible benchmark criteria)",
+        "identifier": "row-11-benchmarking",
+        "description": "Benchmarking literacy (PRI vs TRI + credible benchmark criteria)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Benchmarking literacy (PRI vs TRI + credible benchmark criteria)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Aligned to Unit 11 objectives (PRI vs TRI, benchmark discipline)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Often superficial" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[STRONG] Usually taught" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[PARTIAL] Piecemeal" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 12 - Performance ratios (Sharpe/Treynor/Alpha/Tracking Error) with exam framing",
+        "identifier": "row-12-performance-ratios",
+        "description": "Performance ratios (Sharpe/Treynor/Alpha/Tracking Error) with exam framing",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Performance ratios (Sharpe/Treynor/Alpha/Tracking Error) with exam framing" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Converts “ratio knowing” → “ratio-based judgment” (what to conclude)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Formula-level" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[STRONG] Concept + some examples" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[PARTIAL] Mixed" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 13 - Fair valuation & investor fairness intent (why rules exist)",
+        "identifier": "row-13-fair-valuation",
+        "description": "Fair valuation & investor fairness intent (why rules exist)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+        "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Fair valuation & investor fairness intent (why rules exist)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Maps to “fair treatment” intent (examiner intent zone)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[WEAK] Rarely" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Sometimes" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK]" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 14 - Explanation quality (why right + why others wrong)",
+        "identifier": "row-14-explanations",
+        "description": "Explanation quality (why right + why others wrong)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Explanation quality (why right + why others wrong)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Every question includes correct option + comprehensive explanation" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Varies" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Limited to concept recap" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK] Comments-based" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 15 - Coverage assurance (unit/objective mapping)",
+        "identifier": "row-15-coverage-assurance",
+        "description": "Coverage assurance (explicit unit and test objective mapping with latest syllabus applicable from January 2026) & systematic unit-wise and objective-wise mapping to prevent blind spots",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+        "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Coverage assurance (unit/objective mapping)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Mapped to syllabus units + test objectives (explicit positioning) as per latest syllabus applicable from January 2026" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Rarely explicit" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Not always" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[WEAK]" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 16 - Language accessibility (Hindi/English/Hinglish terminology support)",
+        "identifier": "row-16-language-access",
+        "description": "Language accessibility (Hindi/English/Hinglish terminology support)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Language accessibility (Hindi/English/Hinglish terminology support)" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "[STRONG] Free HCAM™ MF Dictionary = foundational friction removal → systematic trilingual written framework solving terminology friction" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "[PARTIAL] Almost Zero → English-only, no multilingual support" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "[PARTIAL] Sometimes" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "[PARTIAL] → verbal Hindi explanations without written reinforcement or precise terminology mapping" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 17 - Best-fit for learner type",
+        "identifier": "row-17-best-fit",
+        "description": "Best-fit for learner type (based on learning goals, cognitive readiness, and commitment level)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Best-fit for learner type" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "Serious aspirants + rankers + RMs/distributors who need compliance-grade thinking" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "Fast practice seekers" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "Concept learners" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "Budget learners" }
+        ]
+      },
+
+      {
+        "@type": "Dataset",
+        "name": "Row 18 - Main risk / limitation",
+        "identifier": "row-18-risk-limitation",
+        "description": "Main risk / limitation (potential preparation gaps, effort demands, or structural weaknesses)",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/#dataset-regdeep-compare-nismva-formats-table",
+         "name": "Market Cluster Comparison - NISM V-A Prep Formats vs RegDEEP™ Series (Table Content)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+        "additionalProperty": [
+          { "@type": "PropertyValue", "name": "USP / Decision Factor (Rows)", "value": "Main risk / limitation" },
+          { "@type": "PropertyValue", "name": "RegDEEP™ Series 2026", "value": "Needs effort (built for depth, not shortcuts)" },
+          { "@type": "PropertyValue", "name": "Typical Online Mock Tests", "value": "Memorization trap" },
+          { "@type": "PropertyValue", "name": "Typical Video Courses", "value": "Passive learning trap" },
+          { "@type": "PropertyValue", "name": "Typical YouTube Prep", "value": "Noise + inconsistency" }
+        ]
+      }
+    ]
+  },
+
+  "text": [
+    "NOTE: This comparison highlights structural preparation differences, not just format differences. Competitive regulatory exams reward judgment and elimination logic, not just content exposure. - Fetchable JSON of this comparison via GitHub Repo RegDEEP.",
+    "Legend: [STRONG] Strong; [PARTIAL] Partial / depends; [WEAK] Weak / rare"
+  ]
+}
