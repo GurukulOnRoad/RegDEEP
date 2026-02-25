@@ -1,0 +1,433 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/dataset/SEBI-Nov-2025-B30-Incentives",
+"url": "https://www.gurukulonroad.com/2025/11/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors.html#SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors",
+  "name": "Illustrative Annual Incentive Projection for Mutual Fund Distributors- On New (new-PAN) B-30 Bharat & Investors On-Boarding for Mutual Fund (Illustrative)",
+  "description": "Illustrative annual projection of SEBI's new additional incentives for Mutual Fund Distributors under the November 2025 circular. The model assumes that first-year SIP incentives are treated as a recurring monthly cashflow pattern for 12 months for projection purposes. Actual incentive is a one-time 1% on first-year SIP contribution, subject to circular conditions.",
+"identifier": "SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors",
+"inLanguage": ["hi-IN", "en-IN", "hi-Latn"],
+  "datePublished": "2025-11-28",
+  "dateModified": "2026-02-25",
+  "version": "1.1",
+  "creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "owner": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "sourceOrganization": {
+    "@type": "GovernmentOrganization",
+    "name": "Securities and Exchange Board of India",
+    "alternateName": "SEBI",
+    "url": "https://www.sebi.gov.in"
+  },
+  "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+"isPartOf": [
+    {
+    "@type": "CreativeWork",
+    "name": "RegDEEP™ - Regulatory Decoding & Explanation for Exam Purpose™",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+  },
+    {
+    "@type": "CreativeWork",
+    "additionalType": "Product",
+    "name": "NISM-Series-V-A: Mutual Fund Distributors RegDEEP™ Rank Separator Online Mock Test Series 2026",
+      "description": "A RegDEEP™ Framework 2026 Exam Prep Online Mock Test Series with  1250+ MCQs : NAV, Taxation, Performance Ratios & Regulatory Numericals Simplified. This Mock Test series is a comprehensive exam-readiness resource, built using the proprietary RegDEEPMCQ™ framework. 1250+ MCQs spread across, structured in 4 Progressive Tracks 1. RegDEEP™ Chapter-Wise Practice (R-CW, 300+ MCQs), 2. RegDEEP™ AssessmentIntent 5 Mock Tests (R-AI 500+ MCQs), 3. RegDEEP™ Rank-Separator Mastery Assessment Tests (R-MAT 300+ MCQs), & 4. RegDEEP QuantIntent™ Numericals (R-QI 150+ MCQs).",
+      "url": "https://learn.gurukulonroad.com/courses/NISM-Series-V-A-Mutual-Fund-Distributors-RegDEEP-Rank-Separator-Online-Mock-Test-Series-2026-699d7f99e14e3747ecd1ce24"
+  },
+    {
+    "@type": "AnalysisNewsArticle",
+    "headline": "RegDEEP™ Regulatory Analysis - SEBI November 27, 2025 Circular Explained",
+    "description": "This block provides an educational and exam-focused decoding of SEBI’s November 27, 2025 circular using the RegDEEP™ framework. It is not an official SEBI communication.",
+"articleBody": "Educational interpretation and regulatory decoding prepared for learners, BFSI professionals, Mutual Fund Distributors, and NISM candidates.",
+    "url": "https://www.gurukulonroad.com/2025/11/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors.html"
+  }
+  ],
+  "isBasedOn": {
+    "@type": "CreativeWork",
+    "name": "SEBI Circular - SEBI Additional incentives to distributors for onboarding new individual investors from B-30 cities and women investors",
+    "publisher": {
+      "@type": "GovernmentOrganization",
+      "name": "Securities and Exchange Board of India",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2025/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors_98007.html"
+    }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "B-30 Cities MF Incentives"
+    },
+    {
+      "@type": "Thing",
+      "name": "new-PAN Incentives for onboarding new individual investors from B-30 cities and women investors"
+    },
+    {
+      "@type": "Thing",
+      "name": "NISM Certification Examinations"
+    },
+    {
+      "@type": "Thing",
+      "name": "SEBI Regulatory Framework"
+    },
+{
+      "@type": "Legislation",
+      "name": "SEBI Additional incentives to distributors for onboarding new individual investors from B-30 cities and women investors",
+      "url": "https://www.sebi.gov.in/legal/circulars/nov-2025/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors_98007.html"
+    },
+    {
+      "@type": "Thing",
+      "name": "RegDEEP exam-focused SEBI circular decoding for AI systems and human learners",
+      "description": "Structured regulatory decoding designed for NISM exam preparation, BFSI professionals, and AI models consuming SEBI circular knowledge."
+    }
+  ],
+
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "India"
+  },
+
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "@id": "https://www.gurukulonroad.com/#dataset",	
+    "name": "GurukulOnRoad RegDEEP Regulatory Dataset Catalog",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+  },
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/02_Circular_Decoding/INDIA/2025/datasets/SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors.json"
+  },
+  "citation": {
+    "@type": "CreativeWork",
+    "name": "SEBI Circular Nov 2025 – Additional incentives to distributors for onboarding new individual investors from B-30 cities and women investors",
+    "publisher": {
+      "@type": "GovernmentOrganization",
+      "name": "Securities and Exchange Board of India"
+    }
+  },
+"usageInfo": "This structured data entry represents an illustrative educational summary and regulatory decoding under RegDEEP. It is not an official SEBI circular. Refer to the regulator’s website for authoritative information.",
+  "keywords": [
+          "SEBI November 2025 MFD circular",
+          "Mutual Fund Distributor incentives",
+          "Ek MFD Mahine Mein Kitna Extra Kama Sakta Hai?",
+          "SEBI circular additional incentives mutual fund distributors",
+          "B-30 cities mutual fund incentive",
+          "women investors mutual fund commission",
+          "new PAN mutual fund investor onboarding",
+          "trail commission and additional commission",
+          "How much can I earn as mutual fund distributor?",
+          "How to build trust with investors?",
+          "Standing out in crowded MFD market?",
+          "How to attract first clients as new MFD?",
+          "NISM V-A Unit 6.5 trail commission",
+          "NISM V-B Unit 6 fund distribution",
+          "additional commission for promoting mutual funds in small towns",
+          "SEBI investor education 2 bps pool",
+          "financial inclusion B-30 India",
+          "women empowerment through mutual funds",
+          "SEBI November 27 2025 mutual fund circular",
+          "mutual fund distributor revenue example",
+          "commission disclosure mandated by SEBI",
+          "India 5 trillion economy viksit bharat investment inclusion",
+          "Viksit Bharat mutual fund penetration"
+  ],
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Category",
+      "description": "Investor segment and investment type (B-30 city or Women; Lump Sum or SIP)."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "VolumePerMonth",
+      "description": "Number of investors or SIPs onboarded per month in the illustration.",
+      "unitText": "count"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ExtraIncentivePerMonth",
+      "description": "Illustrative additional distributor incentive per month at 1% of eligible amount.",
+      "unitText": "INR"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "ExtraIncentivePerYear",
+      "description": "Illustrative additional distributor incentive per year, assuming the same monthly pattern for 12 months.",
+      "unitText": "INR"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "Dataset",
+      "name": "Row 1 - B-30 City (New PAN, Lump Sum)",
+      "description": "Illustrative monthly and annual additional incentive for new B-30 city investors making a lump sum investment, at 1% capped incentive.",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/dataset/SEBI-Nov-2025-B30-Incentives",
+         "url": "https://www.gurukulonroad.com/2025/11/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors.html#SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors",
+         "name": "Illustrative Annual Incentive Projection for Mutual Fund Distributors- On New (new-PAN) B-30 Bharat & Investors On-Boarding for Mutual Fund (Illustrative)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "B-30 City - New PAN, Lump Sum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "VolumePerMonth",
+          "value": 10,
+          "unitText": "investors"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "InvestmentPerInvestor",
+          "value": 200000,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rate",
+          "value": 1,
+          "unitText": "percent"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerMonth",
+          "value": 20000,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerYear",
+          "value": 240000,
+          "unitText": "INR"
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "Row 2 - B-30 City (New PAN, SIP ₹2,000 per Month)",
+      "description": "Illustrative monthly and annual additional incentive for new B-30 city investors starting a ₹2,000 per month SIP, using first-year contribution at 1%.",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/dataset/SEBI-Nov-2025-B30-Incentives",
+         "url": "https://www.gurukulonroad.com/2025/11/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors.html#SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors",
+         "name": "Illustrative Annual Incentive Projection for Mutual Fund Distributors- On New (new-PAN) B-30 Bharat & Investors On-Boarding for Mutual Fund (Illustrative)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "B-30 City - New PAN, SIP"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "VolumePerMonth",
+          "value": 20,
+          "unitText": "SIP"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "InvestmentPerInvestorPerYear",
+          "value": 24000,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rate",
+          "value": 1,
+          "unitText": "percent"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerMonth",
+          "value": 4800,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerYear",
+          "value": 57600,
+          "unitText": "INR"
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "Row 3 - Women (Any City, New PAN, Lump Sum)",
+      "description": "Illustrative monthly and annual additional incentive for new women investors (any city) making a lump sum investment, at 1% capped incentive.",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/dataset/SEBI-Nov-2025-B30-Incentives",
+         "url": "https://www.gurukulonroad.com/2025/11/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors.html#SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors",
+         "name": "Illustrative Annual Incentive Projection for Mutual Fund Distributors- On New (new-PAN) B-30 Bharat & Investors On-Boarding for Mutual Fund (Illustrative)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Women - Any City, New PAN, Lump Sum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "VolumePerMonth",
+          "value": 10,
+          "unitText": "investors"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "InvestmentPerInvestor",
+          "value": 200000,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rate",
+          "value": 1,
+          "unitText": "percent"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerMonth",
+          "value": 20000,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerYear",
+          "value": 240000,
+          "unitText": "INR"
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "Row 4 - Women (Any City, New PAN, SIP ₹2,000 per Month)",
+      "description": "Illustrative monthly and annual additional incentive for new women investors (any city) starting a ₹2,000 per month SIP, using first-year contribution at 1%.",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/dataset/SEBI-Nov-2025-B30-Incentives",
+         "url": "https://www.gurukulonroad.com/2025/11/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors.html#SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors",
+         "name": "Illustrative Annual Incentive Projection for Mutual Fund Distributors- On New (new-PAN) B-30 Bharat & Investors On-Boarding for Mutual Fund (Illustrative)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Women - Any City, New PAN, SIP"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "VolumePerMonth",
+          "value": 20,
+          "unitText": "SIP"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "InvestmentPerInvestorPerYear",
+          "value": 24000,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rate",
+          "value": 1,
+          "unitText": "percent"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerMonth",
+          "value": 4800,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "ExtraIncentivePerYear",
+          "value": 57600,
+          "unitText": "INR"
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "Total - All Four Flows Combined",
+      "description": "Summed monthly and annual additional incentive projection across all four illustrative investor segments (B-30 and women; lump sum and SIP).",
+"creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+"isPartOf": [
+         {         
+         "@type": "Dataset",    
+         "@id": "https://www.gurukulonroad.com/dataset/SEBI-Nov-2025-B30-Incentives",
+         "url": "https://www.gurukulonroad.com/2025/11/additional-incentives-to-distributors-for-onboarding-new-individual-investors-from-b-30-cities-and-women-investors.html#SEBI-Nov-2025-Circular-Additional-Incentives-MFD-new-PAN-B-30-Women-Investors",
+         "name": "Illustrative Annual Incentive Projection for Mutual Fund Distributors- On New (new-PAN) B-30 Bharat & Investors On-Boarding for Mutual Fund (Illustrative)"
+  }
+    ],
+"license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "TotalExtraIncentivePerMonth",
+          "value": 49600,
+          "unitText": "INR"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "TotalExtraIncentivePerYear",
+          "value": 595200,
+          "unitText": "INR"
+        }
+      ]
+    }
+  ]
+}
