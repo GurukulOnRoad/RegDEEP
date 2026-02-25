@@ -1,0 +1,175 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/2025/11/cii-rpl-guidelines-iii-qualifications-bpo-kpo-gcc-careers.html#cii-rpl-dataset",
+  "name": "CII Recognition of Prior Learning (RPL) Mapping for Insurance Institute of India (III) Qualifications",
+  "description": "Tabular dataset from the article 'How Can III Graduates (LII, AIII, FIII) Fast-Track International CII Insurance Careers' showing how III diplomas and modules map to CII Recognition of Prior Learning (RPL) exemptions and non-unit-specific credits.",
+  "url": "https://www.gurukulonroad.com/2025/11/cii-rpl-guidelines-iii-qualifications-bpo-kpo-gcc-careers.html",
+  "identifier": "CII-Recognition-Prior-Learning-III-Graduates-LIII-AIII-FIII",
+  "inLanguage": [
+    "en-IN",
+    "hi-IN",
+    "hi-Latn"
+  ],
+  "datePublished": "2025-12-15",
+  "dateModified": "2026-02-25",
+  "version": "1.1",
+  "keywords": [
+    "CII Recognition of Prior Learning",
+    "CII RPL dataset",
+    "III Licentiate exemptions",
+    "III Associateship exemptions",
+    "III Fellowship exemptions",
+    "CII credits for III qualifications",
+    "Insurance Institute of India to CII mapping",
+    "Global insurance careers",
+    "BPO KPO GCC insurance operations"
+  ],
+   "creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+
+  "publisher": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+
+  "provider": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+
+  "owner": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+
+  "sourceOrganization": {
+    "@type": "GovernmentOrganization",
+    "additionalType": "Professional Body",
+    "name": "Insurance Institute of India (III)",
+    "alternateName": "III",
+    "url": "https://www.insuranceinstituteofindia.com/"
+  },
+
+  "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+
+  "isPartOf": [
+    {
+    "@type": "CreativeWork",
+    "name": "RegDEEP™ - Regulatory Decoding & Explanation for Exam Purpose™",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+  },
+    {
+    "@type": "CreativeWork",
+    "additionalType": "Product",
+    "name": "III Licentiate, Associate & Fellowship Exam Prep | Online Mock Tests",
+      "description": "Prepare for the Insurance Institute of India (III) Licentiate, Associateship, and Fellowship exams with GurukulOnRoad’s trusted exam prep solutions. Access a full suite of online mock tests, IRDA-aligned guide books, eBooks, and personalized coaching to confidently pass key modules like IC-01, IC-11, IC-45, and IC-86. Whether you’re starting with Licentiate or aiming for Fellowship, our platform supports your complete insurance certification journey.",
+      "url": "https://learn.gurukulonroad.com/s/store/courses/III%20Insurance%20Exam%20Prep"
+  },
+    {
+    "@type": "Article",
+    "@id": "https://www.gurukulonroad.com/2025/11/cii-rpl-guidelines-iii-qualifications-bpo-kpo-gcc-careers.html#article",
+    "headline": "CII Recognition of Prior Learning (RPL) for III Graduates (LIII, AIII, FIII): How Indian Insurance & BPO/KPO/GCC Professionals Can Fast-Track Global CII Insurance Careers",
+        "description": "III LIII AIII FIII holders & insurance professionals in BPO, KPO, GCC units can Fast-Track CII qualifications through RPL, gain exemptions & credits, in 2026",
+    "url": "https://www.gurukulonroad.com/2025/11/cii-rpl-guidelines-iii-qualifications-bpo-kpo-gcc-careers.html"
+  }
+
+  ],
+  "isBasedOn": [
+     {
+    "@type": "CreativeWork",
+    "name": "Check your eligibility",
+    "publisher": {
+      "@type": "GovernmentOrganization",
+       "additionalType": "Professional Body",
+      "name": "The Chartered Insurance Institute",
+      "url": "https://www.cii.co.uk/learning/accreditation/recognition-of-prior-learning/check-your-eligibility-and-apply/"
+        }    
+      },
+     {
+    "@type": "CreativeWork",
+    "name": "Guidelines for building on Insurance Institute of India (III) qualifications to complete Chartered Insurance Institute (CII) internationally-recognised qualifications",
+    "publisher": {
+      "@type": "GovernmentOrganization",
+       "additionalType": "Professional Body",
+      "name": "Insurance Institute of India (III)",
+      "url": "https://www.insuranceinstituteofindia.com/documents/d/guest/cii-rpl-guidliens-for-iii-qualification-06-01-2025-11-02-2025"
+    }
+}
+  ],
+
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "How Indian Insurance & BPO/KPO/GCC Professionals Can Fast-Track Global CII Insurance Careers"
+    },
+    {
+      "@type": "Thing",
+      "name": "CII Recognition of Prior Learning (RPL)"
+    },
+    {
+      "@type": "Thing",
+      "name": "How can III Licentiates, Associates, and Fellows use their qualifications to fast-track CII certifications at lower cost"
+    },
+    {
+      "@type": "Thing",
+      "name": "Scheme of arrangement between the III and the Chartered Insurance Institute, London."
+    }
+  ],
+
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "India"
+  },
+
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "@id": "https://www.gurukulonroad.com/#dataset",	
+    "name": "GurukulOnRoad RegDEEP Regulatory Dataset Catalog",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+  },
+  "citation": {
+    "@type": "CreativeWork",
+    "name": "Scheme of arrangement between the III and the Chartered Insurance Institute, London.",
+    "publisher": {
+      "@type": "GovernmentOrganization",
+      "name": "INSURANCE INSTITUTE OF INDIA"
+    }
+  },
+"usageInfo": "Illustrative educational mapping under RegDEEP™. Not official CII/III policy. Please Verify with https://www.cii.co.uk/learning/accreditation/recognition-of-prior-learning/check-your-eligibility-and-apply/ before considering a decision",
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "III Diploma",
+      "description": "Level of qualification awarded by the Insurance Institute of India, such as Licentiate, Associateship or Fellowship."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "III Module (If passed in Associateship Diploma)",
+      "description": "Specific III subject/module completed, such as IC 01, IC 14, IC 11, IC 27, IC 45, IC 72, or IC 86."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "CII recognition of prior learning for",
+      "description": "Chartered Insurance Institute (CII) unit exemption granted under the RPL scheme, such as W01, IF2, WUE, IF5, or I11."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "CII Non-Unit specific credits",
+      "description": "Non-unit-specific CII credits awarded at the Diploma level in Insurance, where applicable."
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+    "encodingFormat": "application/json",
+      "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/02_Circular_Decoding/GLOBAL/2025/datasets/CII-Recognition-Prior-Learning-III-Graduates-LIII-AIII-FIII.json"
+    }
+  ]
+}
