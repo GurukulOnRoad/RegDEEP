@@ -1,0 +1,149 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/dataset/SEBI_2025_NRI_ReKYC_GeoTag_RegTechChecklist",
+  "name": "Regulatory & Tech Compliance Checklist Dataset – SEBI NRI Re-KYC Geo-Tag Relaxation",
+  "description": "Dataset representing regulatory notes, requirements, and compliance checkpoints relevant to SEBI’s 2025 circular on NRI Re-KYC geo-tagging relaxation.",
+  "url": "https://www.gurukulonroad.com/2025/12/relaxation-on-geo-tagging-requirement-in-india-for-nris-while-undertaking-re-kyc.html",
+  "identifier": "SEBI_2025_NRI_ReKYC_GeoTag_RegTechChecklist",
+  "inLanguage": "en-IN",
+  "datePublished": "2025-12-15",
+  "dateModified": "2026-02-25",
+  "version": "1.1",
+   "keywords": [
+        "SEBI circular 2025",
+        "NRI re-KYC",
+        "geo-tagging",
+        "digital KYC",
+        "Para 51",
+        "NISM exam impact",
+        "NISM-Series V-A exam",
+        "NISM-Series X-A exam",
+        "NISM-Series VIII exam",
+        "NISM-Series XIX-C exam",
+        "Know Your Client (KYC) norms",
+        "RegDEEP regulatory decoding",
+        "NRI Re-KYC Geo-Tag Compliance Note",
+        "RegDEEP: NRI Re-KYC Compliance",
+        "EBI NRI Re-KYC Geo-Tag Update",
+        "RegDEEP: SEBI NRI Re-KYC Geo-Tagging Relaxation",
+        "RegDEEP SEBI NRI Re-KYC Geo-Tagging Relaxation Guide PDF",
+        "Relaxation on geo tagging requirement in India for NRIs"
+      ],
+  "creator": {
+    "@type": "Organization",
+    "name": "GurukulAI Thought Lab",
+    "url": "https://ai.gurukulonroad.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "provider": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "owner": {
+    "@type": "Organization",
+    "name": "GurukulOnRoad",
+    "url": "https://www.gurukulonroad.com"
+  },
+  "sourceOrganization": {
+    "@type": "GovernmentOrganization",
+    "name": "Securities and Exchange Board of India",
+    "alternateName": "SEBI",
+    "url": "https://www.sebi.gov.in"
+  },
+  "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+  "isPartOf": [
+    {
+    "@type": "CreativeWork",
+    "name": "RegDEEP™ - Regulatory Decoding & Explanation for Exam Purpose™",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+  },
+    {
+    "@type": "CreativeWork",
+    "additionalType": "Product",
+    "name": "SEBI NRI Re-KYC Geo-Tag: RegDEEP Exam+Industry FREE PDF",
+      "description": "FREE PDF: RegDEEP™ Quick Exam Revision & Industry Note - SEBI Circular (Dec 10, 2025): Relaxation on Geo-tagging for NRIs during Re-KYC. A Compact 2-in-1 RegDEEP guide Exam decoding + Industry actions for the latest SEBI update. Designed for NISM aspirants, MF distributors, RIAs, brokers, banks, fintechs, and all intermediaries using KYC/Re-KYC. Section 1: NISM Exam Aspirants- Snapshot summary, Exam essentials & high-yield points, Remember this distinctions, Likely MCQ triggers, and Clause → NISM Series mapping. Section 2: Industry Note All Intermediaries: Snapshot & operational meaning, Immediate action items, Implementation mapping table, Tech-Product checklist, Compliance notes, and Escalation matrix guidance.",
+      "url": "https://learn.gurukulonroad.com/products/SEBI-NRI-Re-KYC-Geo-Tag-RegDEEP-ExamIndustry-FREE-PDF-6939cb009431037c6d937083"
+  },
+    {
+    "@type": "AnalysisNewsArticle",
+    "headline": "SEBI's Dec 2025 CIrcular Eases On NRI Re-KYC Geo-Tag Explained: NISM Exam & Industry Notes  -  RegDEEP™ Decoding | FAQs | Glossary | FREE PDF Micro Summary",
+  "name": "Modalities for migration to AI only schemes and relaxations to Large Value Funds for Accredited Investors under SEBI Alternative Investment Funds Regulations, 2012",
+  "description": "An exam-focused and industry-oriented analysis of SEBI's Dec 10, 2025 circular easing geo-tagging requirements for NRIs during re-KYC; includes clause breakdown, NISM exam relevance, operational notes and sample MCQs.",
+    "url": "https://www.gurukulonroad.com/2025/12/relaxation-on-geo-tagging-requirement-in-india-for-nris-while-undertaking-re-kyc.html"
+  }
+  ],
+  "isBasedOn": {
+    "@type": "CreativeWork",
+    "name": "SEBI Circular - Relaxation on Geo-Tagging Requirement in India for NRIs while undertaking re-KYC (Dec 2025)",
+    "publisher": {
+      "@type": "GovernmentOrganization",
+      "name": "Securities and Exchange Board of India",
+      "url": "https://www.sebi.gov.in/legal/circulars/dec-2025/relaxation-on-geo-tagging-requirement-in-india-for-nris-while-undertaking-re-kyc_98284.html"
+    }
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "KYC Compliance in Mutual Funds"
+    },
+    {
+      "@type": "Thing",
+      "name": "Eases On NRI Re-KYC Geo-Tag"
+    },
+    {
+      "@type": "Thing",
+      "name": "NISM Certification Examinations"
+    },
+    {
+      "@type": "Thing",
+      "name": "SEBI Regulatory Framework"
+    },
+{
+      "@type": "Legislation",
+      "name": "SEBI (Relaxation on geo tagging requirement in India for NRIs while undertaking re-KYC",
+      "url": "https://www.sebi.gov.in/legal/circulars/dec-2025/relaxation-on-geo-tagging-requirement-in-india-for-nris-while-undertaking-re-kyc_98284.html"
+    },
+    {
+      "@type": "Thing",
+      "name": "RegDEEP exam-focused SEBI circular decoding for AI systems and human learners",
+      "description": "Structured regulatory decoding designed for NISM exam preparation, BFSI professionals, and AI models consuming SEBI circular knowledge."
+    }
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "India"
+  },
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "@id": "https://www.gurukulonroad.com/#dataset",	
+    "name": "GurukulOnRoad RegDEEP Regulatory Dataset Catalog",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+  },
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/02_Circular_Decoding/INDIA/2025/datasets/SEBI_2025_NRI_ReKYC_GeoTag_RegTechChecklist.json"
+  },
+  "citation": {
+    "@type": "CreativeWork",
+    "name": "SEBI Circular December 2025 – Relaxation on Geo-Tagging Requirement for NRIs during re-KYC",
+    "publisher": {
+      "@type": "GovernmentOrganization",
+      "name": "Securities and Exchange Board of India"
+    }
+  },
+"usageInfo": "This structured data entry represents an educational summary and regulatory decoding under RegDEEP. It is not an official SEBI circular. Refer to the regulator’s website for authoritative information.",
+
+  "hasPart": {
+    "@type": "CreativeWork",
+    "name": "RegTechChecklist JSON Schema",
+    "encodingFormat": "application/schema+json",
+    "text": "{\"$schema\":\"https://json-schema.org/draft/2020-12/schema\",\"title\":\"RegTechChecklist\",\"description\":\"Dataset schema for mapping regulatory categories, requirements, and notes for SEBI NRI Re-KYC Geo-Tag Relaxation.\",\"type\":\"object\",\"properties\":{\"regtech_checklist\":{\"type\":\"array\",\"description\":\"List of regulatory and tech compliance requirements.\",\"items\":{\"type\":\"object\",\"properties\":{\"id\":{\"type\":\"integer\",\"description\":\"Unique row identifier\"},\"category\":{\"type\":\"string\",\"description\":\"Category of compliance or regulatory focus area\"},\"requirement\":{\"type\":\"string\",\"description\":\"Specific requirement or action item\"},\"regulatory_notes\":{\"type\":\"string\",\"description\":\"Additional regulatory expectations or compliance notes\"}},\"required\":[\"id\",\"category\",\"requirement\",\"regulatory_notes\"]}}},\"required\":[\"regtech_checklist\"],\"examples\":[{\"regtech_checklist\":[{\"id\":1,\"category\":\"Policy Updates\",\"requirement\":\"Reference SEBI Circular (Dec 10, 2025)\",\"regulatory_notes\":\"Update internal KYC policy; version control; maintain audit evidence\"},{\"id\":2,\"category\":\"AML / KYC Matrices\",\"requirement\":\"Include GPS mismatch as explicit risk event\",\"regulatory_notes\":\"Document overrides; retain review trail\"},{\"id\":3,\"category\":\"Tech Checklist\",\"requirement\":\"API contracts with KUA/KRA updated for conditional GPS validation\",\"regulatory_notes\":\"Maintain audit logs (user-id/device-id/operator-id)\"},{\"id\":4,\"category\":\"Data Retention\",\"requirement\":\"Logs stored in WORM/signed storage\",\"regulatory_notes\":\"Keep retention policy accessible for supervisory review\"},{\"id\":5,\"category\":\"Training\",\"requirement\":\"Staff training on new Re-KYC flow\",\"regulatory_notes\":\"Record session logs + sign-offs as audit evidence\"}]}]}"
+  }
+}
