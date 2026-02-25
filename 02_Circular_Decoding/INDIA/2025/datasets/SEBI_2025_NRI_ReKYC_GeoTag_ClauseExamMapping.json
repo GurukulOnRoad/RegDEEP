@@ -121,8 +121,9 @@
   },
   "includedInDataCatalog": {
     "@type": "DataCatalog",
-    "name": "GurukulOnRoad RegDEEP Regulatory Dataset Repository",
-    "url": "https://github.com/GurukulOnRoad/RegDEEP"
+    "@id": "https://www.gurukulonroad.com/#dataset",	
+    "name": "GurukulOnRoad RegDEEP Regulatory Dataset Catalog",
+    "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
   },
   "distribution": {
     "@type": "DataDownload",
