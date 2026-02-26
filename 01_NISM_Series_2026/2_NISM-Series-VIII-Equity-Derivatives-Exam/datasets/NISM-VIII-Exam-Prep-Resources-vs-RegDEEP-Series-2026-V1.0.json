@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "Dataset",
   "@id": "https://www.gurukulonroad.com/#dataset-regdeep-vs-others-compare-nismviii",
-  "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026",
+  "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026-699fc1b49d6ca126c66e59d1",
   "name": "RegDEEP Master Comparison Table - NISM-VIII Equity Derivatives (2026)",
   "description": "A structured evidence matrix comparing Official NISM VIII expectations, typical mock tests, and the RegDEEP Equity Derivatives Series across coverage depth, cognitive progression, traps, numericals, regulator-aligned reasoning, language support, conceptual clarity support, and pricing structure. Key highlights: 1250+ MCQs, 4 Tracks, Trap Layer, QuantIntent Numericals. Usage Note: This is an illustrative comparison table based on available public domain information. It is NOT an official NISM data. It is designed to help learners understand syllabus alignment, cognitive depth, and differentiation signals without requiring additional interpretation.",
 "disambiguatingDescription": "This dataset represents an independent, research-based, illustrative comparison table created for educational and exam-preparation purposes. It is compiled using publicly available information, officially published syllabus details, and test objective contexts applicable from January 2026 onward. This comparison analyzes the NISM-VIII Equity Derivatives examination framework in relation to the RegDEEP™ Series 2026 and typical mock test offerings available in the market. This is NOT an official NISM publication, document, endorsement, or certified data source. It does not represent, reproduce, or replace any official NISM material. Learners are advised to refer to the official NISM website and prescribed workbook for authoritative information regarding examination structure, fees, syllabus, and regulatory updates.",
@@ -81,15 +81,15 @@
  {
  "@type": "CreativeWork",
  "additionalType": "Product",
- "@id": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026#product",
- "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026",
+ "@id": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026-699fc1b49d6ca126c66e59d1#product",
+ "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026-699fc1b49d6ca126c66e59d1",
  "name": "NISM-VIII Equity Derivatives RegDEEP™ Rank Separator Mock Test Series 2026"
  },
  {
  "@type": "CreativeWork",
  "additionalType": "Course",
- "@id": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026#course",
- "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026",
+ "@id": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026-699fc1b49d6ca126c66e59d1#course",
+ "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026-699fc1b49d6ca126c66e59d1",
  "name": "NISM-VIII Equity Derivatives RegDEEP™ Rank Separator Online Mock Test Series 2026"
  },
  {
