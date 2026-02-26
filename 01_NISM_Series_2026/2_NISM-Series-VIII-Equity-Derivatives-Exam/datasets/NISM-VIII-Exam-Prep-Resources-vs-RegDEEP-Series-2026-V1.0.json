@@ -1,0 +1,646 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/#dataset-regdeep-vs-others-compare-nismviii",
+  "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026",
+  "name": "RegDEEP Master Comparison Table - NISM-VIII Equity Derivatives (2026)",
+  "description": "A structured evidence matrix comparing Official NISM VIII expectations, typical mock tests, and the RegDEEP Equity Derivatives Series across coverage depth, cognitive progression, traps, numericals, regulator-aligned reasoning, language support, conceptual clarity support, and pricing structure. Key highlights: 1250+ MCQs, 4 Tracks, Trap Layer, QuantIntent Numericals. Usage Note: This is an illustrative comparison table based on available public domain information. It is NOT an official NISM data. It is designed to help learners understand syllabus alignment, cognitive depth, and differentiation signals without requiring additional interpretation.",
+"disambiguatingDescription": "This dataset represents an independent, research-based, illustrative comparison table created for educational and exam-preparation purposes. It is compiled using publicly available information, officially published syllabus details, and test objective contexts applicable from January 2026 onward. This comparison analyzes the NISM-VIII Equity Derivatives examination framework in relation to the RegDEEP™ Series 2026 and typical mock test offerings available in the market. This is NOT an official NISM publication, document, endorsement, or certified data source. It does not represent, reproduce, or replace any official NISM material. Learners are advised to refer to the official NISM website and prescribed workbook for authoritative information regarding examination structure, fees, syllabus, and regulatory updates.",
+"identifier": "Market-Cluster-Comparison-NISM-VIII-Exam-Prep-Resources-vs-RegDEEP-Series-2026",
+"datePublished": "2026-02-26",
+ "dateModified": "2026-02-26",
+ "version": "1.0",
+  "keywords": [
+    "RegDEEP",
+    "NISM-VIII",
+    "Equity Derivatives",
+    "Mock Test",
+    "Comparison Table",
+    "Evidence Matrix",
+    "Cognitive Progression",
+    "Trap Layer",
+    "QuantIntent Numericals",
+    "R-CW",
+    "R-AI",
+    "R-MAT",
+    "R-QI",
+    "HCAM",
+    "Hindi-English-Hinglish Equity Derivatives Dictionary",
+    "Clearing and Settlement",
+    "Margining",
+    "Risk Management"
+  ],
+  "creator": {
+ "@type": "Organization",
+ "name": "GurukulAI Thought Lab",
+ "url": "https://ai.gurukulonroad.com/"
+ },
+ "publisher": {
+ "@type": "EducationalOrganization",
+ "@id": "https://learn.gurukulonroad.com/#organization",
+ "name": "Learn@Gurukul The Universal Learning Hub for GurukulOnRoad Ecosystem - Online Mock Test, eLearning, & Hindi AI Literacy",
+ "url": "https://learn.gurukulonroad.com/"
+ },
+ "owner": {
+ "@type": "Organization",
+ "name": "GurukulOnRoad",
+ "url": "https://www.gurukulonroad.com"
+ },
+ "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+
+ "isPartOf": [
+ {
+ "@type": "CreativeWork",
+ "name": "RegDEEP™ - Regulatory Decoding & Explanation for Exam Purpose™",
+ "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+ },
+ {
+ "@type": "CreativeWorkSeries",
+ "@id": "https://www.gurukulonroad.com/#regdeep-googleplay-series26",
+ "url": "https://play.google.com/store/books/series?id=zCSYHAAAABBVOM",
+ "name": "RegDEEP™ NISM Exam Prep Series 2026 Built on Rank Separator & Assessment Intent Framework",
+ "description": "RegDEEP™ NISM Exam Prep Series 2026 is a focused, examiner-aligned preparation series designed exclusively for NISM certification examinations. The series applies the RegDEEP™ (Regulatory Decoding & Explanation for Exam Purpose) framework to transform official NISM curricula, test objectives, and regulatory material into exam-ready understanding and defensible decision-making ability. Each title in the series trains candidates to recognize concepts accurately, differentiate near-identical provisions, and apply correct regulatory logic under ambiguity -reflecting how NISM exams are actually constructed and evaluated. This series is intended for serious learners seeking clarity, elimination skill, and consistency under exam pressure, rather than rote memorization or shortcut-based preparation.",
+ "about": [
+ {
+ "@type": "Thing",
+ "name": "NISM Certification Exams in Securities Market & Finance",
+ "@id": "https://www.gurukulonroad.com/#nism-mandatory",
+ "url": "https://www.nism.ac.in/certifications/",
+ "description": "Mandatory NISM Certification Examinations for associated persons in the securities market intermediaries in India."
+ },
+ {
+ "@type": "Thing",
+ "name": "SEBI's Master Circulars",
+ "@id": "https://www.gurukulonroad.com/#sebi-master-circulars",
+ "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=6&smid=0",
+ "description": "SEBI's Master Circulars mandating NISM certification for Market Intermediaries and associated person in Indian Securities Market"
+ }
+ ],
+ "sameAs": "https://www.amazon.com/dp/B0GMSC168C"
+ },
+ {
+ "@type": "CreativeWork",
+ "additionalType": "Product",
+ "@id": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026#product",
+ "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026",
+ "name": "NISM-VIII Equity Derivatives RegDEEP™ Rank Separator Mock Test Series 2026"
+ },
+ {
+ "@type": "CreativeWork",
+ "additionalType": "Course",
+ "@id": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026#course",
+ "url": "https://learn.gurukulonroad.com/courses/nism-viii-8-equity-derivatives-online-mock-test-regdeep-rank-separator-series-2026",
+ "name": "NISM-VIII Equity Derivatives RegDEEP™ Rank Separator Online Mock Test Series 2026"
+ },
+ {
+ "@type": "Book",
+ "@id": "https://www.gurukulonroad.com/#book-nismviii-2026",
+ "name": "NISM-VIII Equity Derivatives Rank Separator Mock Test Guide 2026",
+ "sameAs": [
+ "https://books.google.co.in/books?id=mUTBEQAAQBAJ",
+ "https://play.google.com/store/books/details?id=mUTBEQAAQBAJ",
+ "https://www.amazon.in/dp/B0GN89KYHT",
+ "https://www.goodreads.com/book/show/247965574-nism-viii-equity-derivatives-rank-separator-mock-test-guide-2026"
+ ]
+ }
+ ],
+  "isBasedOn": [
+    {
+      "@type": "CreativeWork",
+      "name": "Independent Market Research",
+      "datePublished": "2026-02-25",
+      "description": "Aggregation of publicly available data for various courses, mock test and YouTube videos available in public domain for NISM V-A Mutual Fund Distributor Certification Exam Preparation comparing with the official test objectives outlined by NISM for 2026 exams applicable from January 2026."
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "NISM-Series-VIII: Equity Derivatives Certification Examination  Official Test Objectives & Curriculum (Applicable from January 2026)",
+      "url": "https://www.nism.ac.in/curriculum-equity-derivatives-certification-examination/"
+    }
+  ],
+  "sourceOrganization": {
+    "@type": "GovernmentOrganization",
+    "additionalType": "Professional Body",
+    "name": "The National Institute of Securities Markets (NISM)",
+    "alternateName": "NISM",
+    "url": "https://www.nism.ac.in/certifications/"
+  },
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "GurukulOnRoad - Internal Aggregated Feedback Summary from Past NISM VIII Exam Takers",
+      "description": "Internal aggregated learner feedback used to identify recurring misconception patterns, interpretation friction points, and frequently misunderstood exam concepts. This is not official NISM data and does not represent NISM views."
+    }
+  ],
+ "spatialCoverage": {
+ "@type": "Place",
+ "name": "India"
+ },
+
+ "includedInDataCatalog": {
+ "@type": "DataCatalog",
+ "@id": "https://www.gurukulonroad.com/#dataset",
+ "name": "GurukulOnRoad RegDEEP Regulatory Dataset Catalog",
+ "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+ },
+
+ "usageInfo": "This is an independent, research-based illustrative comparison dataset developed for educational purposes using publicly available syllabus information and official test objective context applicable from January 2026. It is NOT an official NISM document, endorsement, or publication.",
+ "isAccessibleForFree": true,
+  "variableMeasured": [
+    "Dimension",
+    "Official NISM VIII Context / Expectation",
+    "RegDEEP™ Equity Derivatives Series",
+    "Conventional Mock Tests"
+  ],
+"distribution": [
+ {
+ "@type": "DataDownload",
+ "encodingFormat": "application/json",
+ "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/01_NISM_Series_2026/2_NISM-Series-VIII-Equity-Derivatives-Exam/datasets/NISM-VIII-Exam-Prep-Resources-vs-RegDEEP-Series-2026-V1.0.json"
+ }
+ ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "@id": "#itemlist-regdeep-master-comparison-table-rows",
+    "name": "RegDEEP Master Comparison Table Rows (24-row hierarchy with 4 sub-items each)",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 24,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Row - Syllabus Alignment",
+        "identifier": "row-syllabus-alignment",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-syllabus-alignment",
+          "name": "Row 1 - Syllabus Alignment (1.1 to 1.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "1.1 Dimension",
+              "item": { "@type": "CreativeWork", "text": "Syllabus Alignment" }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "1.2 Official NISM VIII Context / Expectation",
+              "item": { "@type": "CreativeWork", "text": "Latest Syllabus Applicable from January 2026 test objectives" }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "1.3 RegDEEP Equity Derivatives Series",
+              "item": { "@type": "CreativeWork", "text": "Structured mapping to all 2026 test objectives (eg: Index, Futures, Options, Clearing, Legal)" }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "1.4 Conventional Mock Tests",
+              "item": { "@type": "CreativeWork", "text": "Typical / Unknown - Often topic-based grouping." }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Row - Index Construction and Computation",
+        "identifier": "row-index-construction-computation",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-index-construction-computation",
+          "name": "Row 2 - Index Construction and Computation (2.1 to 2.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "2.1 Dimension", "item": { "@type": "CreativeWork", "text": "Index Construction and Computation" } },
+            { "@type": "ListItem", "position": 2, "name": "2.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Market cap, Free float, Price weighted, Impact cost" } },
+            { "@type": "ListItem", "position": 3, "name": "2.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Clarity layer + numerical interpretation + weight distortion traps" } },
+            { "@type": "ListItem", "position": 4, "name": "2.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Basic formula MCQs." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Row - Definition Precision (eg: SCRA)",
+        "identifier": "row-definition-precision-scra",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-definition-precision-scra",
+          "name": "Row 3 - Definition Precision (eg: SCRA) (3.1 to 3.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "3.1 Dimension", "item": { "@type": "CreativeWork", "text": "Definition Precision (eg: SCRA)" } },
+            { "@type": "ListItem", "position": 2, "name": "3.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "eg: Derivative definition, Securities classification" } },
+            { "@type": "ListItem", "position": 3, "name": "3.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Definition distortion traps + regulatory intent framing" } },
+            { "@type": "ListItem", "position": 4, "name": "3.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Direct recall." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Row - Legal Validity of Derivatives",
+        "identifier": "row-legal-validity-derivatives",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-legal-validity-derivatives",
+          "name": "Row 4 - Legal Validity of Derivatives (4.1 to 4.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "4.1 Dimension", "item": { "@type": "CreativeWork", "text": "Legal Validity of Derivatives" } },
+            { "@type": "ListItem", "position": 2, "name": "4.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "eg: Section 18A validity conditions" } },
+            { "@type": "ListItem", "position": 3, "name": "4.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Scenario-based legal validity simulations" } },
+            { "@type": "ListItem", "position": 4, "name": "4.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Rarely scenario-tested." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Row - Clearing and Settlement Framework",
+        "identifier": "row-clearing-settlement-framework",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-clearing-settlement-framework",
+          "name": "Row 5 - Clearing and Settlement Framework (5.1 to 5.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "5.1 Dimension", "item": { "@type": "CreativeWork", "text": "Clearing and Settlement Framework" } },
+            { "@type": "ListItem", "position": 2, "name": "5.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "eg: Clearing corporation, margin, member eligibility" } },
+            { "@type": "ListItem", "position": 3, "name": "5.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Multi-layer obligation tables + default logic" } },
+            { "@type": "ListItem", "position": 4, "name": "5.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Surface questions." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Row - Margin Architecture",
+        "identifier": "row-margin-architecture",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-margin-architecture",
+          "name": "Row 6 - Margin Architecture (6.1 to 6.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "6.1 Dimension", "item": { "@type": "CreativeWork", "text": "Margin Architecture" } },
+            { "@type": "ListItem", "position": 2, "name": "6.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Initial margin, exposure margin, collateral logic" } },
+            { "@type": "ListItem", "position": 3, "name": "6.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Sequencing logic + gross vs net traps + collateral interpretation" } },
+            { "@type": "ListItem", "position": 4, "name": "6.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Basic conceptual." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Row - Position Limits and Violations",
+        "identifier": "row-position-limits-violations",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-position-limits-violations",
+          "name": "Row 7 - Position Limits and Violations (7.1 to 7.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "7.1 Dimension", "item": { "@type": "CreativeWork", "text": "Position Limits and Violations" } },
+            { "@type": "ListItem", "position": 2, "name": "7.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "SEBI-defined exposure caps" } },
+            { "@type": "ListItem", "position": 3, "name": "7.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Limit breach simulation + reduction-only logic + consequence framing" } },
+            { "@type": "ListItem", "position": 4, "name": "7.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Single-layer MCQs." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Row - Risk Disclosure and Client Registration",
+        "identifier": "row-risk-disclosure-client-registration",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-risk-disclosure-client-registration",
+          "name": "Row 8 - Risk Disclosure and Client Registration (8.1 to 8.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "8.1 Dimension", "item": { "@type": "CreativeWork", "text": "Risk Disclosure and Client Registration" } },
+            { "@type": "ListItem", "position": 2, "name": "8.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Mandatory RDD, KYC compliance" } },
+            { "@type": "ListItem", "position": 3, "name": "8.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Trap-based regulatory compliance questions" } },
+            { "@type": "ListItem", "position": 4, "name": "8.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Rarely tested deeply." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "name": "Row - Cross-Chapter Integration",
+        "identifier": "row-cross-chapter-integration",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-cross-chapter-integration",
+          "name": "Row 9 - Cross-Chapter Integration (9.1 to 9.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "9.1 Dimension", "item": { "@type": "CreativeWork", "text": "Cross-Chapter Integration" } },
+            { "@type": "ListItem", "position": 2, "name": "9.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "eg: Beta + Futures + Margin + Settlement" } },
+            { "@type": "ListItem", "position": 3, "name": "9.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Dedicated R-AI cross-unit caselets" } },
+            { "@type": "ListItem", "position": 4, "name": "9.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Minimal integration." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "name": "Row - Regulator Intent Understanding",
+        "identifier": "row-regulator-intent-understanding",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-regulator-intent-understanding",
+          "name": "Row 10 - Regulator Intent Understanding (10.1 to 10.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "10.1 Dimension", "item": { "@type": "CreativeWork", "text": "Regulator Intent Understanding" } },
+            { "@type": "ListItem", "position": 2, "name": "10.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Why system exists (risk containment logic)" } },
+            { "@type": "ListItem", "position": 3, "name": "10.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "R-MAT regulator-thinking architecture" } },
+            { "@type": "ListItem", "position": 4, "name": "10.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Not addressed." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 11,
+        "name": "Row - Numerical Depth",
+        "identifier": "row-numerical-depth",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-numerical-depth",
+          "name": "Row 11 - Numerical Depth (11.1 to 11.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "11.1 Dimension", "item": { "@type": "CreativeWork", "text": "Numerical Depth" } },
+            { "@type": "ListItem", "position": 2, "name": "11.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "eg: Hedge ratio, MTM, settlement price, cost of carry" } },
+            { "@type": "ListItem", "position": 3, "name": "11.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Formula to Interpretation to Judgment (R-QI progression)" } },
+            { "@type": "ListItem", "position": 4, "name": "11.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Basic arithmetic." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 12,
+        "name": "Row - Trap Engineering",
+        "identifier": "row-trap-engineering",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-trap-engineering",
+          "name": "Row 12 - Trap Engineering (12.1 to 12.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "12.1 Dimension", "item": { "@type": "CreativeWork", "text": "Trap Engineering" } },
+            { "@type": "ListItem", "position": 2, "name": "12.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Exam tests distortion recognition" } },
+            { "@type": "ListItem", "position": 3, "name": "12.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Deliberate cognitive trap simulation" } },
+            { "@type": "ListItem", "position": 4, "name": "12.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Accidental ambiguity." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 13,
+        "name": "Row - Cognitive Progression",
+        "identifier": "row-cognitive-progression",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-cognitive-progression",
+          "name": "Row 13 - Cognitive Progression (13.1 to 13.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "13.1 Dimension", "item": { "@type": "CreativeWork", "text": "Cognitive Progression" } },
+            { "@type": "ListItem", "position": 2, "name": "13.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Concept to Application to Judgment" } },
+            { "@type": "ListItem", "position": 3, "name": "13.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "4 Progressive Tracks (R-CW, R-AI, R-MAT, R-QI)" } },
+            { "@type": "ListItem", "position": 4, "name": "13.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Random difficulty." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 14,
+        "name": "Row - Difficulty Structuring",
+        "identifier": "row-difficulty-structuring",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-difficulty-structuring",
+          "name": "Row 14 - Difficulty Structuring (14.1 to 14.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "14.1 Dimension", "item": { "@type": "CreativeWork", "text": "Difficulty Structuring" } },
+            { "@type": "ListItem", "position": 2, "name": "14.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Layered exam difficulty" } },
+            { "@type": "ListItem", "position": 3, "name": "14.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Embedded 8 Difficulties Layers as Structured escalation: Clarity to Integration to Regulator Thinking to Precision" } },
+            { "@type": "ListItem", "position": 4, "name": "14.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Mixed without hierarchy." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 15,
+        "name": "Row - MCQ Architecture",
+        "identifier": "row-mcq-architecture",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-mcq-architecture",
+          "name": "Row 15 - MCQ Architecture (15.1 to 15.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "15.1 Dimension", "item": { "@type": "CreativeWork", "text": "MCQ Architecture" } },
+            { "@type": "ListItem", "position": 2, "name": "15.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "100-question final exam" } },
+            { "@type": "ListItem", "position": 3, "name": "15.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "1250+ MCQs mapped across four cognitive depth layers" } },
+            { "@type": "ListItem", "position": 4, "name": "15.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Flat practice sets." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 16,
+        "name": "Row - Candidate Type Fit",
+        "identifier": "row-candidate-type-fit",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-candidate-type-fit",
+          "name": "Row 16 - Candidate Type Fit (16.1 to 16.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "16.1 Dimension", "item": { "@type": "CreativeWork", "text": "Candidate Type Fit" } },
+            { "@type": "ListItem", "position": 2, "name": "16.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Approved Users, Sales Personnel, Clearing Participants" } },
+            { "@type": "ListItem", "position": 3, "name": "16.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Role-specific risk logic simulation" } },
+            { "@type": "ListItem", "position": 4, "name": "16.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - General learners." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 17,
+        "name": "Row - Exam Simulation Authenticity",
+        "identifier": "row-exam-simulation-authenticity",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-exam-simulation-authenticity",
+          "name": "Row 17 - Exam Simulation Authenticity (17.1 to 17.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "17.1 Dimension", "item": { "@type": "CreativeWork", "text": "Exam Simulation Authenticity" } },
+            { "@type": "ListItem", "position": 2, "name": "17.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Structured case-based ambiguity" } },
+            { "@type": "ListItem", "position": 3, "name": "17.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Decision simulation under regulatory framing" } },
+            { "@type": "ListItem", "position": 4, "name": "17.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Mostly direct recall." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 18,
+        "name": "Row - Bias and Misconception Correction",
+        "identifier": "row-bias-misconception-correction",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-bias-misconception-correction",
+          "name": "Row 18 - Bias and Misconception Correction (18.1 to 18.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "18.1 Dimension", "item": { "@type": "CreativeWork", "text": "Bias and Misconception Correction" } },
+            { "@type": "ListItem", "position": 2, "name": "18.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Avoid common conceptual errors" } },
+            { "@type": "ListItem", "position": 3, "name": "18.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Wrong options represents known misconception" } },
+            { "@type": "ListItem", "position": 4, "name": "18.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Not intentionally structured." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 19,
+        "name": "Row - Preparation Strategy Support",
+        "identifier": "row-preparation-strategy-support",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-preparation-strategy-support",
+          "name": "Row 19 - Preparation Strategy Support (19.1 to 19.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "19.1 Dimension", "item": { "@type": "CreativeWork", "text": "Preparation Strategy Support" } },
+            { "@type": "ListItem", "position": 2, "name": "19.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Workbook recommended" } },
+            { "@type": "ListItem", "position": 3, "name": "19.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "8-Step Structured Mastery Framework" } },
+            { "@type": "ListItem", "position": 4, "name": "19.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Not structured." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 20,
+        "name": "Row - Mastery Benchmarking",
+        "identifier": "row-mastery-benchmarking",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-mastery-benchmarking",
+          "name": "Row 20 - Mastery Benchmarking (20.1 to 20.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "20.1 Dimension", "item": { "@type": "CreativeWork", "text": "Mastery Benchmarking" } },
+            { "@type": "ListItem", "position": 2, "name": "20.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "60% pass mark in exam" } },
+            { "@type": "ListItem", "position": 3, "name": "20.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "75% mastery benchmark per layer" } },
+            { "@type": "ListItem", "position": 4, "name": "20.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - No internal control." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 21,
+        "name": "Row - Conceptual Clarity",
+        "identifier": "row-conceptual-clarity",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-conceptual-clarity",
+          "name": "Row 21 - Conceptual Clarity (21.1 to 21.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "21.1 Dimension", "item": { "@type": "CreativeWork", "text": "Conceptual Clarity" } },
+            { "@type": "ListItem", "position": 2, "name": "21.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Expect Conceptual Clarity for all Derivative Concepts" } },
+            { "@type": "ListItem", "position": 3, "name": "21.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "HCAM Powered Complementary Equity Derivatives Dictionary (Hindi-English-Hinglish)" } },
+            { "@type": "ListItem", "position": 4, "name": "21.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Not Available." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 22,
+        "name": "Row - Language Support",
+        "identifier": "row-language-support",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-language-support",
+          "name": "Row 22 - Language Support (22.1 to 22.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "22.1 Dimension", "item": { "@type": "CreativeWork", "text": "Language Support" } },
+            { "@type": "ListItem", "position": 2, "name": "22.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "English" } },
+            { "@type": "ListItem", "position": 3, "name": "22.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "HCAM Powered Hindi-English-Hinglish Dictionary to build clarity on own thinking language" } },
+            { "@type": "ListItem", "position": 4, "name": "22.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Not Available." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 23,
+        "name": "Row - Pricing Structure",
+        "identifier": "row-pricing-stracture",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-pricing-structure",
+          "name": "Row 23 - Pricing Stracture (23.1 to 23.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "23.1 Dimension", "item": { "@type": "CreativeWork", "text": "Pricing Structure" } },
+            { "@type": "ListItem", "position": 2, "name": "23.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Exam fee ₹1500/-." } },
+            { "@type": "ListItem", "position": 3, "name": "23.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "₹149/- (90 Days Unlimited Attempt & Practice Access)" } },
+            { "@type": "ListItem", "position": 4, "name": "23.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - ₹500/- to ₹1500/- (Limited / Restricted Access)." } }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 24,
+        "name": "Row - Outcome Type",
+        "identifier": "row-outcome-type",
+        "item": {
+          "@type": "ItemList",
+          "@id": "#row-outcome-type",
+          "name": "Row 24 - Outcome Type (24.1 to 24.4)",
+          "itemListOrder": "https://schema.org/ItemListOrderAscending",
+          "numberOfItems": 4,
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "24.1 Dimension", "item": { "@type": "CreativeWork", "text": "Outcome Type" } },
+            { "@type": "ListItem", "position": 2, "name": "24.2 Official NISM VIII Context / Expectation", "item": { "@type": "CreativeWork", "text": "Passing certification" } },
+            { "@type": "ListItem", "position": 3, "name": "24.3 RegDEEP Equity Derivatives Series", "item": { "@type": "CreativeWork", "text": "Structured regulator-level reasoning development" } },
+            { "@type": "ListItem", "position": 4, "name": "24.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Typical - Question familiarity." } }
+          ]
+        }
+      }
+    ]
+  }
+}
