@@ -1,0 +1,657 @@
+{
+ "@context": "https://schema.org",
+ "@type": "Dataset",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#23ways-dataset",
+ "url": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html",
+ "name": "23 Key Differences Between RegDEEP™ and Conventional Mock Tests - RegDEEP™ Master Comparison Table",
+ "description": "A structured evidence matrix comparing RegDEEP™ NISM Mock test Series 2026 & conventional / traditional exam prep materials available across public domain. Most mock test series focus only on question practice. RegDEEP™ is designed as a regulatory decoding framework aligned with examiner intent, regulatory interpretation, and decision logic used in NISM certification examinations. This Dataset table highlights 23 specific ways in which the RegDEEP™ framework differs from conventional mock test series used for NISM exam preparation.",
+"disambiguatingDescription": "This dataset represents an independent, research-based, illustrative comparison table created for educational and exam-preparation purposes. It is compiled using publicly available information, officially published syllabus details, and test objective contexts applicable from January 2026 onward for different NISM exams. This comparison analyzes the NISM Exam module's examination framework in relation to the RegDEEP™ Series 2026 and typical mock test or exam prep materials offerings available in the market. This is NOT an official NISM publication, document, endorsement, or certified data source. It does not represent, reproduce, or replace any official NISM material. Learners are advised to refer to the official NISM website and prescribed workbook for authoritative information regarding examination structure, fees, syllabus, and regulatory updates.",
+"identifier": "RegDEEP-NISM-Series-Master-Comparison-Table-2026",
+"datePublished": "2026-03-05",
+ "dateModified": "2026-03-05",
+ "version": "1.0",
+  "mainEntityOfPage": {
+  "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#webpage",
+  "url": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html"
+  },
+ "keywords": [
+ "RegDEEP Framework",
+ "RegDEEP vs Conventional Mock Tests",
+ "RegDEEP Master Comparison Table",
+ "23 Differences RegDEEP vs Traditional Mock Tests",
+ "Regulatory Exam Preparation Framework",
+ "Exam Strategy Evidence Matrix",
+ "NISM Certification Exam Preparation 2026",
+ "NISM Exam Prep in Hindi Study Materials & Mock Test",
+ "Hindi Mock Test for NISM Exam 2026",
+ "Examiner Intent Based Learning",
+ "Regulatory Decision Logic Training",
+ "Cognitive Progression Exam Model",
+ "Trap Layer Question Design",
+ "Elimination Logic in Competitive Exams",
+ "QuantIntent Numericals Framework",
+ "RegDEEP Chapter Wise Practice (R-CW)",
+ "RegDEEP AssessmentIntent Mock Tests (R-AI)",
+ "RegDEEP Mastery Assessment Tests (R-MAT)",
+ "RegDEEP QuantIntent Numericals (R-QI)",
+ "Exam Trap Recognition Training",
+ "Concept Differentiation in Regulatory Exams",
+ "Regulatory Interpretation Based Questions"
+ ],
+ "creator": {
+ "@type": "Organization",
+ "name": "GurukulAI Thought Lab",
+ "@id": "https://ai.gurukulonroad.com/#organization",
+ "url": "https://ai.gurukulonroad.com/"
+ },
+ "publisher": {
+ "@type": "EducationalOrganization",
+ "@id": "https://learn.gurukulonroad.com/#organization",
+ "name": "Learn@Gurukul The Universal Learning Hub for GurukulOnRoad Ecosystem - Online Mock Test, eLearning, & Hindi AI Literacy",
+ "url": "https://learn.gurukulonroad.com/"
+ },
+ "owner": {
+ "@type": "Organization",
+ "name": "GurukulOnRoad",
+ "url": "https://www.gurukulonroad.com"
+ },
+ "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+ "isPartOf": [
+ {
+  "@type": "CreativeWorkSeries",
+  "@id": "https://www.gurukulonroad.com/#regdeep-nism-series26",
+  "url": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html",
+  "name": "RegDEEP™ NISM Exam Prep Series 2026 Examiner-Grade Preparation Built on RankSeparator™ AssessmentIntent™ & QuantIntent™ Framework",
+  "mainEntityOfPage": {
+  "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#webpage",
+  "url": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html"
+  },
+  "description": "RegDEEP™ NISM Exam Prep Series 2026 is a focused, examiner-aligned preparation series designed exclusively for NISM certification examinations. The series applies the RegDEEP™ (Regulatory Decoding & Explanation for Exam Purpose) framework to transform official NISM curricula, test objectives, and regulatory material into exam-ready understanding and defensible decision-making ability. Each title in the series trains candidates to recognize concepts accurately, differentiate near-identical provisions, and apply correct regulatory logic under ambiguity -reflecting how NISM exams are actually constructed and evaluated. This series is intended for serious learners seeking clarity, elimination skill, and consistency under exam pressure, rather than rote memorization or shortcut-based preparation",
+  "inLanguage": "en-IN",
+  "creativeWorkStatus": "Living & Evolving",
+  "publisher": {
+ "@type": "Organization",
+ "@id": "https://www.gurukulonroad.com/#organization",
+ "name": "GurukulOnRoad",
+ "url": "https://www.gurukulonroad.com/"
+  },
+  "about": [
+  {
+ "@type": "WebPage",
+ "name": "NISM Certification Exams in Securities Market & Finance",
+ "@id": "https://www.gurukulonroad.com/#nism-mandatory",
+  "url": "https://www.nism.ac.in/certifications/",
+  "description": "Mandatory NISM Certification Examinations for associated persons in the securities market intermediaries in India."
+  },
+  {
+  "@type": "Legislation",
+  "name": "SEBI (Certification of Associated Persons in the Securities Markets) Regulations, 2007 Last amended on July 15, 2025",
+  "@id": "https://www.gurukulonroad.com/#capsm-2025",
+  "url": "https://www.sebi.gov.in/legal/regulations/jul-2025/securities-and-exchange-board-of-india-certification-of-associated-persons-in-the-securities-markets-regulations-2007-last-amended-on-july-15-2025-_95599.html",
+  "description": "SEBI CAPMS: Securities and Exchange Board of India (Certification of Associated Persons in the Securities Markets) Obligation to obtain certificate: Categories of associated persons to obtain the requisite certificate for engagement or employment with such classes of intermediaries,"
+ },
+ {
+ "@type": "Legislation",
+ "name": "SEBI's Master Circulars",
+ "@id": "https://www.gurukulonroad.com/#sebi-master-circulars",
+ "url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=6&smid=0",
+ "description": "SEBI's Master Circulars mandating NISM certification for Market Intermediaries and associated person in Indian Securities Market"
+ }
+],
+  "isPartOf": [
+ {
+  "@type": "WebPage",
+  "@id": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html#regdeeproot",
+  "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html",
+  "name": "RegDEEP™: Regulatory Circulars Decoded (Global + India): 2026 Exam Guide for NISM, CAIIB, JAIIB, III, FINRA, CII, CISI, IRDAI | Notes for BFSI, BPO, KPO & GCC",
+  "description": "Exam-focused hub decoding complex regulatory circulars for NISM, CAIIB, JAIIB, III, FINRA, CII, CISI and more, simplified into learner-friendly notes and compliance guides for Indian BFSI professionals."
+ },
+ {
+  "@type": "WebPage",
+  "@id": "https://learn.gurukulonroad.com/s/store#store",
+  "url": "https://learn.gurukulonroad.com/s/store",
+  "name": "NISM, JAIIB, CAIIB, III, FINRA, CISI Exam Prep | Online Mock Tests & BFSI eLearning -GurukulOnRoad",
+  "description": "Learn@Gurukul Official store front & eLearning LMS platform of GurukulOnRoad. Your one-stop eLearning hub for chapter-wise mock tests, online mock test practice exams, and study guides for top financial certifications. Prepare for NISM, JAIIB, CAIIB, III Licentiate & Associateship, FINRA, and UGC NET with our high-quality, self-paced content-trusted by Banks, BPOs, KPOs, GCCs, and BFSI professionals across India and global markets."
+ }
+  ],
+  "hasPart": [
+ {
+  "@type": "CollectionPage",
+  "@id": "https://learn.gurukulonroad.com/s/store/courses/RegDEEP%20NISM%20Exam%20Prep%20Series%202026#collectionpage",
+  "url": "https://learn.gurukulonroad.com/s/store/courses/RegDEEP%20NISM%20Exam%20Prep%20Series%202026",
+  "name": "RegDEEP NISM Exam Prep Series 2026 -Learn@GurukulOnRoad",
+  "description": "A dynamic collection page listing RegDEEP™-aligned NISM exam preparation mock test series for 2026. This page is a collection page listing RegDEEP™-aligned NISM exam preparation courses for 2026 exam cycle. Created using official NISM latest updated syllabus, test objectives , and workbooks applicable from January 2026 ."
+ },
+ {
+ "@type": "CreativeWorkSeries",
+ "@id": "https://www.gurukulonroad.com/#regdeep-googleplay-series26",
+ "url": "https://play.google.com/store/books/series?id=zCSYHAAAABBVOM",
+ "name": "RegDEEP™ NISM Exam Prep Series 2026 on Google Play Books",
+ "description": "RegDEEP™ NISM Exam Prep Series 2026 is a collection of exam preparation eBooks designed for NISM certification candidates. The series is available on Google Play Books and includes multiple titles covering different NISM modules. Most eBooks in the series are priced at INR 149, except 'NISM Series III-C: Securities Intermediaries Compliance (Fund)' which is priced at INR 494.",
+"sameAs": "https://www.amazon.com/dp/B0GMSC168C"
+ },
+ {
+ "@type": "CreativeWorkSeries",
+ "@id": "https://www.gurukulonroad.com/#regdeep-kindle-series26",
+ "url": "https://www.amazon.in/dp/B0GMSC168C",
+ "name": "RegDEEP™ NISM Exam Prep Series 2026 on Amazon (Print and eBooks)",
+ "description": "RegDEEP™ NISM Exam Prep Series 2026 is a collection of exam preparation guidebooks and eBooks designed for NISM certification candidates. The series is available on Amazon, including Kindle editions, and covers multiple NISM certification modules."
+ },
+
+ { "@type": "Book", "@id": "https://www.gurukulonroad.com/#book-nismiiic-2026" },
+ { "@type": "Book", "@id": "https://www.gurukulonroad.com/#book-nismva-2026" },
+ { "@type": "DefinedTermSet", "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#regdeep-capsm-definedtermset" }
+  ],
+  "subjectOf": [
+ { "@type": "WebPage", "@id": "https://www.gurukulonroad.com/#nism-mandatory" },
+ { "@type": "WebPage", "@id": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html#regdeeproot" },
+ { "@type": "WebPage", "@id": "https://learn.gurukulonroad.com/s/store#store" }
+  ],
+  "sameAs": [
+ "https://play.google.com/store/books/series?id=zCSYHAAAABBVOM",
+ "https://www.amazon.in/dp/B0GMSC168C",
+ "https://www.amazon.com/dp/B0GMSC168C"
+  ]
+ }
+ ],
+ "isBasedOn": [
+ {
+  "@type": "CreativeWork",
+  "name": "Independent Market Research",
+  "datePublished": "2026-03-05",
+  "description": "Aggregation of publicly available data for various courses, mock test and YouTube videos available in public domain for different NISM Exam Preparation materials comparing with the official test objectives outlined by NISM for 2026 exams applicable from January 2026 and Key deliverables & outcome of RegDEEP™ NISM Mock Test Series 2026 ."
+ },
+ {
+ "@type": "WebPage",
+ "name": "NISM Certification Exams in Securities Market & Finance",
+ "@id": "https://www.gurukulonroad.com/#nism-mandatory",
+ "url": "https://www.nism.ac.in/certifications/",
+ "description": "Mandatory NISM Certification Examinations for associated persons in the securities market intermediaries in India."
+ }
+ ],
+ "sourceOrganization": {
+ "@type": "GovernmentOrganization",
+ "additionalType": "Professional Body",
+ "name": "The National Institute of Securities Markets (NISM)",
+ "alternateName": "NISM",
+ "url": "https://www.nism.ac.in/certifications/"
+ },
+ "citation": [
+ {
+  "@type": "CreativeWork",
+  "name": "GurukulOnRoad - Internal Aggregated Feedback Summary from Past NISM Exam Takers for Different Modules",
+  "description": "Internal aggregated learner feedback used to identify recurring misconception patterns, interpretation friction points, and frequently misunderstood exam concepts. This is not official NISM data and does not represent NISM views."
+ }
+ ],
+ "spatialCoverage": {
+ "@type": "Place",
+ "name": "India"
+ },
+ "includedInDataCatalog": {
+ "@type": "DataCatalog",
+ "@id": "https://www.gurukulonroad.com/#dataset",
+ "name": "GurukulOnRoad RegDEEP Regulatory Dataset Catalog",
+ "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html"
+ },
+ "usageInfo": "This is an independent, research-based illustrative comparison dataset developed for educational purposes using publicly available syllabus information and official test objective context applicable from January 2026. It is NOT an official NISM document, endorsement, or publication.",
+ "isAccessibleForFree": true,
+ "variableMeasured": [
+ "Dimension", 
+ "Official Certification Context / Expectation",
+ "RegDEEP™ Series",
+ "Conventional Mock Tests"
+ ],
+"distribution": [
+ {
+ "@type": "DataDownload",
+ "encodingFormat": "application/json",
+ "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/01_NISM_Series_2026/RegDEEP_Master_2026/datasets/RegDEEP-NISM-Series-Master-Comparison-Table-2026-V1.0.json"
+ }
+ ],
+"mainEntity": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#itemlist-regdeep-master-comparison-table-rows",
+ "name": "23 Key Differences Between RegDEEP™ and Conventional Mock Tests - RegDEEP™ Master Comparison Table",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 23,
+ "itemListElement": [
+ {
+  "@type": "ListItem",
+  "position": 1,
+  "name": "Row - Syllabus Alignment",
+  "identifier": "row-syllabus-alignment",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-syllabus-alignment",
+ "name": "Row 1 - Syllabus Alignment (1.1 to 1.4)",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "1.1 Dimension", "item": { "@type": "CreativeWork", "text": "Syllabus Alignment" } },
+  { "@type": "ListItem", "position": 2, "name": "1.2 Official Certification Context / Expectation", "item": { "@type": "CreativeWork", "text": "Coverage aligned with official certification test objectives and module syllabus." } },
+  { "@type": "ListItem", "position": 3, "name": "1.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Complete syllabus mapping across all chapters and regulatory objectives." } },
+  { "@type": "ListItem", "position": 4, "name": "1.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Often partial or topic-based coverage." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 2,
+  "name": "Row - Definition Precision",
+  "identifier": "row-definition-precision",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-definition-precision",
+ "name": "Row 2 - Definition Precision (2.1 to 2.4)",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "2.1 Dimension", "item": { "@type": "CreativeWork", "text": "Definition Precision" } },
+  { "@type": "ListItem", "position": 2, "name": "2.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Precise understanding of regulatory and financial terminology." } },
+  { "@type": "ListItem", "position": 3, "name": "2.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Definition distortion traps + regulatory intent framing." } },
+  { "@type": "ListItem", "position": 4, "name": "2.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Mostly direct recall questions." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 3,
+  "name": "Row - Conceptual Foundations",
+  "identifier": "row-concept-foundation",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-concept-foundation",
+ "name": "Row 3 - Conceptual Foundations",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "3.1 Dimension", "item": { "@type": "CreativeWork", "text": "Conceptual Foundations" } },
+  { "@type": "ListItem", "position": 2, "name": "3.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Understanding key financial market structures and mechanisms." } },
+  { "@type": "ListItem", "position": 3, "name": "3.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Concept recognition → conceptual distinction progression." } },
+  { "@type": "ListItem", "position": 4, "name": "3.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Basic concept recall." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 4,
+  "name": "Row - Regulatory Framework",
+  "identifier": "row-regulatory-framework",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-regulatory-framework",
+ "name": "Row 4 - Regulatory Framework",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "4.1 Dimension", "item": { "@type": "CreativeWork", "text": "Regulatory Framework Understanding" } },
+  { "@type": "ListItem", "position": 2, "name": "4.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Understanding regulations governing financial markets." } },
+  { "@type": "ListItem", "position": 3, "name": "4.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Scenario-based regulatory interpretation." } },
+  { "@type": "ListItem", "position": 4, "name": "4.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Direct rule-based questions." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 5,
+  "name": "Row - Market Structure Understanding",
+  "identifier": "row-market-structure",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-market-structure",
+ "name": "Row 5 - Market Structure Understanding",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "5.1 Dimension", "item": { "@type": "CreativeWork", "text": "Market Structure Understanding" } },
+  { "@type": "ListItem", "position": 2, "name": "5.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Roles of market participants and institutions." } },
+  { "@type": "ListItem", "position": 3, "name": "5.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Institution interaction simulations." } },
+  { "@type": "ListItem", "position": 4, "name": "5.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Surface-level participant questions." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 6,
+  "name": "Row - Process and Workflow Logic",
+  "identifier": "row-process-workflow",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-process-workflow",
+ "name": "Row 6 - Process and Workflow Logic",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "6.1 Dimension", "item": { "@type": "CreativeWork", "text": "Process and Workflow Logic" } },
+  { "@type": "ListItem", "position": 2, "name": "6.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Operational processes in financial markets." } },
+  { "@type": "ListItem", "position": 3, "name": "6.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Step-sequence operational reasoning questions." } },
+  { "@type": "ListItem", "position": 4, "name": "6.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Rarely tested in sequence." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 7,
+  "name": "Row - Risk Awareness",
+  "identifier": "row-risk-awareness",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-risk-awareness",
+ "name": "Row 7 - Risk Awareness",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "7.1 Dimension", "item": { "@type": "CreativeWork", "text": "Risk Awareness" } },
+  { "@type": "ListItem", "position": 2, "name": "7.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Understanding financial and operational risks." } },
+  { "@type": "ListItem", "position": 3, "name": "7.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Risk scenario simulations." } },
+  { "@type": "ListItem", "position": 4, "name": "7.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "No risk definitions." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 8,
+  "name": "Row - Cross-Chapter Integration",
+  "identifier": "row-cross-chapter",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-cross-chapter",
+ "name": "Row 8 - Cross-Chapter Integration",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "8.1 Dimension", "item": { "@type": "CreativeWork", "text": "Cross-Chapter Integration" } },
+  { "@type": "ListItem", "position": 2, "name": "8.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Integration across syllabus units." } },
+  { "@type": "ListItem", "position": 3, "name": "8.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Cross-unit scenario based questions." } },
+  { "@type": "ListItem", "position": 4, "name": "8.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Minimal integration." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 9,
+  "name": "Row - Regulator Intent Understanding",
+  "identifier": "row-regulator-intent",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-regulator-intent",
+ "name": "Row 9 - Regulator Intent Understanding",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "9.1 Dimension", "item": { "@type": "CreativeWork", "text": "Regulator Intent Understanding" } },
+  { "@type": "ListItem", "position": 2, "name": "9.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Understanding why regulatory provisions exist." } },
+  { "@type": "ListItem", "position": 3, "name": "9.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Regulator-thinking & Intent Mapping questions." } },
+  { "@type": "ListItem", "position": 4, "name": "9.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Rarely addressed." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 10,
+  "name": "Row - Numerical and Analytical Depth",
+  "identifier": "row-numerical-depth",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-numerical-depth",
+ "name": "Row 10 - Numerical and Analytical Depth",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "10.1 Dimension", "item": { "@type": "CreativeWork", "text": "Numerical and Analytical Depth" } },
+  { "@type": "ListItem", "position": 2, "name": "10.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Application of financial formulas and calculations." } },
+  { "@type": "ListItem", "position": 3, "name": "10.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Formula → Interpretation → Decision progression." } },
+  { "@type": "ListItem", "position": 4, "name": "10.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Mostly direct calculations." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 11,
+  "name": "Row - Trap Engineering",
+  "identifier": "row-trap-engineering",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-trap-engineering",
+ "name": "Row 11 - Trap Engineering",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "11.1 Dimension", "item": { "@type": "CreativeWork", "text": "Trap Engineering" } },
+  { "@type": "ListItem", "position": 2, "name": "11.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Exam often tests conceptual distortions." } },
+  { "@type": "ListItem", "position": 3, "name": "11.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Deliberate cognitive traps." } },
+  { "@type": "ListItem", "position": 4, "name": "11.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Mostly accidental ambiguity." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 12,
+  "name": "Row - Cognitive Progression",
+  "identifier": "row-cognitive-progression",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-cognitive-progression",
+ "name": "Row 12 - Cognitive Progression",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "12.1 Dimension", "item": { "@type": "CreativeWork", "text": "Cognitive Progression" } },
+  { "@type": "ListItem", "position": 2, "name": "12.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Concept → Application → Judgment." } },
+  { "@type": "ListItem", "position": 3, "name": "12.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "4 Layers with 8-level RegDEEP cognitive architecture." } },
+  { "@type": "ListItem", "position": 4, "name": "12.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Random difficulty progression." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 13,
+  "name": "Row - Difficulty Structuring",
+  "identifier": "row-difficulty-structuring",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-difficulty-structuring",
+ "name": "Row 13 - Difficulty Structuring",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "13.1 Dimension", "item": { "@type": "CreativeWork", "text": "Difficulty Structuring" } },
+  { "@type": "ListItem", "position": 2, "name": "13.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Layered exam difficulty." } },
+  { "@type": "ListItem", "position": 3, "name": "13.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Structured escalation across 8 levels." } },
+  { "@type": "ListItem", "position": 4, "name": "13.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Mixed difficulty." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 14,
+  "name": "Row - MCQ Architecture",
+  "identifier": "row-mcq-architecture",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-mcq-architecture",
+ "name": "Row 14 - MCQ Architecture",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "14.1 Dimension", "item": { "@type": "CreativeWork", "text": "MCQ Architecture" } },
+  { "@type": "ListItem", "position": 2, "name": "14.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Standard MCQ exam structure." } },
+  { "@type": "ListItem", "position": 3, "name": "14.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Large MCQ bank across multiple cognitive layers." } },
+  { "@type": "ListItem", "position": 4, "name": "14.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Flat question banks." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 15,
+  "name": "Row - Exam Simulation Authenticity",
+  "identifier": "row-exam-simulation",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-exam-simulation",
+ "name": "Row 15 - Exam Simulation Authenticity",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "15.1 Dimension", "item": { "@type": "CreativeWork", "text": "Exam Simulation Authenticity" } },
+  { "@type": "ListItem", "position": 2, "name": "15.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Real exam scenario replication." } },
+  { "@type": "ListItem", "position": 3, "name": "15.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Scenario-based exam simulation." } },
+  { "@type": "ListItem", "position": 4, "name": "15.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Mostly recall tests." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 16,
+  "name": "Row - Bias and Misconception Correction",
+  "identifier": "row-bias-correction",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-bias-correction",
+ "name": "Row 16 - Bias and Misconception Correction",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "16.1 Dimension", "item": { "@type": "CreativeWork", "text": "Bias and Misconception Correction" } },
+  { "@type": "ListItem", "position": 2, "name": "16.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Avoid common conceptual mistakes." } },
+  { "@type": "ListItem", "position": 3, "name": "16.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Wrong options mirror common misconceptions." } },
+  { "@type": "ListItem", "position": 4, "name": "16.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Rarely structured." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 17,
+  "name": "Row - Preparation Strategy Support",
+  "identifier": "row-preparation-strategy",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-preparation-strategy",
+ "name": "Row 17 - Preparation Strategy Support",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "17.1 Dimension", "item": { "@type": "CreativeWork", "text": "Preparation Strategy Support" } },
+  { "@type": "ListItem", "position": 2, "name": "17.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Workbook-based preparation recommended." } },
+  { "@type": "ListItem", "position": 3, "name": "17.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Structured 8-step mastery framework." } },
+  { "@type": "ListItem", "position": 4, "name": "17.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "No structured preparation flow." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 18,
+  "name": "Row - Mastery Benchmarking",
+  "identifier": "row-mastery-benchmarking",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-mastery-benchmarking",
+ "name": "Row 18 - Mastery Benchmarking",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "18.1 Dimension", "item": { "@type": "CreativeWork", "text": "Mastery Benchmarking" } },
+  { "@type": "ListItem", "position": 2, "name": "18.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Minimum pass mark." } },
+  { "@type": "ListItem", "position": 3, "name": "18.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Layer-wise mastery benchmarks." } },
+  { "@type": "ListItem", "position": 4, "name": "18.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "No internal mastery control." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 19,
+  "name": "Row - Conceptual Clarity Tools",
+  "identifier": "row-concept-clarity",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-concept-clarity",
+ "name": "Row 19 - Conceptual Clarity Tools",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "19.1 Dimension", "item": { "@type": "CreativeWork", "text": "Conceptual Clarity Tools" } },
+  { "@type": "ListItem", "position": 2, "name": "19.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Conceptual clarity across syllabus." } },
+  { "@type": "ListItem", "position": 3, "name": "19.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Concept dictionary and clarity tools." } },
+  { "@type": "ListItem", "position": 4, "name": "19.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Not available." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 20,
+  "name": "Row - Language Accessibility",
+  "identifier": "row-language-support",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-language-support",
+ "name": "Row 20 - Language Accessibility",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "20.1 Dimension", "item": { "@type": "CreativeWork", "text": "Language Accessibility" } },
+      { "@type": "ListItem", "position": 2, "name": "20.2 Certification Context", "item": { "@type": "CreativeWork", "text": "English is standard, and some NISM modules may also be available in Hindi." } },
+      { "@type": "ListItem", "position": 3, "name": "20.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Free HCAM™ Dictionary reduces foundational friction and supports trilingual terminology (Hindi, English, Hinglish) for exam preparation." } },
+      { "@type": "ListItem", "position": 4, "name": "20.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Mostly English-only; multilingual support is rare. Videos may sometimes include Hindi subtitles, but mock tests typically do not." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 21,
+  "name": "Row - Attempt Flexibility",
+  "identifier": "row-attempt-flexibility",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-attempt-flexibility",
+ "name": "Row 21 - Attempt Flexibility",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "21.1 Dimension", "item": { "@type": "CreativeWork", "text": "Attempt Flexibility" } },
+  { "@type": "ListItem", "position": 2, "name": "21.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Limited exam attempts." } },
+  { "@type": "ListItem", "position": 3, "name": "21.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Unlimited practice attempts." } },
+  { "@type": "ListItem", "position": 4, "name": "21.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Limited attempts." } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 22,
+  "name": "Row - Pricing Structure",
+  "identifier": "row-pricing-structure",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-pricing-structure",
+ "name": "Row 22 - Pricing Structure",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "22.1 Dimension", "item": { "@type": "CreativeWork", "text": "Pricing Structure" } },
+  { "@type": "ListItem", "position": 2, "name": "22.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Official exam fee." } },
+  { "@type": "ListItem", "position": 3, "name": "22.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Affordable access Digital Access Including Mock test & eBook INR 149" } },
+  { "@type": "ListItem", "position": 4, "name": "22.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Variable pricing INR 500 to INR 1500" } }
+ ]
+  }
+ },
+ {
+  "@type": "ListItem",
+  "position": 23,
+  "name": "Row - Learning Outcome",
+  "identifier": "row-learning-outcome",
+  "item": {
+ "@type": "ItemList",
+ "@id": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html#row-learning-outcome",
+ "name": "Row 23 - Learning Outcome",
+ "itemListOrder": "https://schema.org/ItemListOrderAscending",
+ "numberOfItems": 4,
+ "itemListElement": [
+  { "@type": "ListItem", "position": 1, "name": "23.1 Dimension", "item": { "@type": "CreativeWork", "text": "Learning Outcome" } },
+  { "@type": "ListItem", "position": 2, "name": "23.2 Certification Context", "item": { "@type": "CreativeWork", "text": "Certification eligibility & Passing certification" } },
+  { "@type": "ListItem", "position": 3, "name": "23.3 RegDEEP Series", "item": { "@type": "CreativeWork", "text": "Structured mastery of Regulatory thinking, exam thinking, and decision capability." } },
+  { "@type": "ListItem", "position": 4, "name": "23.4 Conventional Mock Tests", "item": { "@type": "CreativeWork", "text": "Question familiarity & Basic exam practice" } }
+ ]
+  }
+ }
+ ]
+}
+}
