@@ -1,0 +1,1247 @@
+{
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo",
+  "url": "https://www.gurukulonroad.com/p/regdeep-global-regulatory-certification.html#regdeep-pedagogy-demo",
+  "name": "SIE One-Page Visual Master Map Dataset for Indian Professionals and Learners",
+  "alternateName": [
+    "RegDEEP™ SIE One-Page Visual Master Map Dataset",
+    "Sample RegDEEP™ Pedagogical Cognitive Micro-Learning Visual Map for FINRA SIE One-Page Visual Master Map"
+  ],
+  "description": "A structured educational dataset representing the SIE One-Page Visual Master Map designed specifically for Indian learners preparing for the FINRA Securities Industry Essentials (SIE) examination. The dataset organizes core U.S. securities market concepts into 10 structured learning sections covering 45 key concepts. Each concept row preserves four instructional layers: the original U.S. concept, its functional description or role, a practical example or key feature, and an Indian contextual analogy used solely as a conceptual learning bridge. The U.S. concept reflects the actual structure and terminology used in the SIE examination, while the Indian analogy is provided only as a pedagogical aid and must not be interpreted as the official or tested answer framework. This series also demonstrates how RegDEEP™ translates complex regulatory frameworks into learner-friendly micro-learning structures that align with the learner’s cognitive starting point, making global regulatory knowledge easier to grasp, remember, and apply. In addition, this single dataset provides a consolidated conceptual overview aligned with the major coverage areas defined in the official FINRA SIE examination syllabus and outline. This visual represents only a very small sample -approximately 2% of the broader RegDEEP™ FINRA SIE Terminology Visual Map architecture. The complete framework contains multiple cognitive micro-learning visual maps covering the full FINRA SIE terminology landscape, including regulatory structure, market participants, products, trading mechanics, risk concepts, and conduct rules. Beyond the visual learning layer, the RegDEEP™ architecture is designed to be machine-readable and data-structured, enabling compatibility with LMS environments, SCORM-compliant learning systems, and structured dataset formats. Selected components may also be provided as downloadable datasets (for example JSON-based reference files) to support learning system integration, educational reuse, and machine-assisted knowledge discovery.",
+  "disambiguatingDescription": "An independent educational dataset developed under the RegDEEP™ framework to support conceptual understanding of FINRA Securities Industry Essentials (SIE) exam topics; this dataset is not created by, affiliated with, endorsed by, or officially associated with FINRA.",
+  "inLanguage": "en-IN",
+  "datePublished": "2026-03-11",
+   "dateModified": "2026-03-11",
+    "identifier": "RegDEEP-Pedagogical-Cognitive-Micro-Learning-SIE-One-Page-Visual-Map-V1",
+   "version": "1.4",
+   "mainEntityOfPage": { "@id": "https://www.gurukulonroad.com/p/regdeep-global-regulatory-certification.html#webpage" },
+  "keywords": [
+    "GCC BPO KPO capability building for U.S. financial services",
+    "Regulatory-ready talent pipeline for broker-dealer operations",
+    "FINRA-aligned talent pipeline development in India",
+    "Capability building for Indian GCCs serving U.S. financial institutions",
+   "Broker-dealer outsourcing readiness training",
+   "U.S. financial services outsourcing capability development",
+   "Training support for winning U.S. outsourcing deals",
+   "Regulatory capability building for client pitching and RFPs",
+   "FINRA-aligned workforce readiness for Indian BPOs and GCCs",
+   "Pre-sales capability framework for U.S. financial services outsourcing",
+   "Domain training for outsourced broker-dealer operations",
+   "Compliance capability building for Indian delivery teams",
+   "Knowledge capability building for U.S. broker-dealer support functions",
+   "Training-led outsourcing differentiation for GCCs and BPOs",
+   "Regulatory certification linked workforce development",
+   "U.S. securities operations training for offshore delivery teams",
+   "Capability proof for U.S. client deal qualification",
+   "Domain readiness training for outsourced financial operations",
+  "Learning infrastructure for financial services talent pipeline building",
+  "Broker-dealer process training for outsourcing transitions",  
+  "FINRA SIE",
+  "Securities Industry Essentials exam",
+  "FINRA SIE exam preparation for Indian learners",
+  "How to prepare for FINRA SIE exam in India",
+  "U.S. securities market structure",
+  "RegDEEP framework",
+  "RegDEEP cognitive micro-learning visual maps",
+  "One-page FINRA SIE revision map",
+  "Indian learning bridge for U.S. securities concepts",
+  "U.S. exam structure learning framework",
+  "BPOs KPOs GCCs in India supporting U.S. financial services",
+  "Regulated business process outsourcing for broker-dealers",
+  "FINRA aligned knowledge capability for Indian BPO operations",
+  "Broker-dealer operational support outsourcing to India",
+  "U.S. financial services back office operations India",
+  "Mid-office custody operations outsourcing India",
+  "FINRA broker-dealer operations",
+  "Broker-dealer compliance processes",
+  "Registered representative supervision processes",
+  "Investment banking division supervision processes",
+  "Suitability review of agents and representatives",
+  "Trade blotter review process",
+  "Supervisory review of broker-dealer activities",
+  "FINRA Form U4 filing process",
+  "FINRA Form U5 filing process",
+  "FINRA Form U10 filing process",
+  "CRD system maintenance",
+  "Central Registration Depository operations",
+  "Agent registration compliance processes",
+  "Registered representative onboarding processes",
+  "FINRA licensing administration processes",
+  "FINRA exam enrollment and scheduling",
+  "Representative license lifecycle management",
+  "FINRA continuing education management",
+  "Regulatory element continuing education",
+  "Firm element continuing education program",
+  "FINRA CE tracking and compliance monitoring",
+  "AML KYC client onboarding processes for broker-dealers",
+  "Customer identification program CIP processes",
+  "Client due diligence operations",
+  "U.S. regulatory filing processes for broker-dealers",
+  "Broker-dealer compliance monitoring operations",
+  "Operational compliance support for U.S. securities firms"
+  ],
+"creator": {
+ "@type": "Organization",
+ "name": "GurukulAI Thought Lab",
+ "@id": "https://ai.gurukulonroad.com/#organization",
+ "url": "https://ai.gurukulonroad.com/"
+ },
+"isPartOf": [
+ {
+          "@type": "CreativeWorkSeries",
+          "@id": "https://www.gurukulonroad.com/#regdeep-global",
+          "url": "https://www.gurukulonroad.com/p/regdeep-global-regulatory-certification.html",
+          "name": "RegDEEP™ Global Regulatory Certification Series"
+},
+{
+          "@type": "SoftwareSourceCode",
+          "@id": "https://www.gurukulonroad.com/#regdeep-repo",
+          "url": "https://github.com/GurukulOnRoad/RegDEEP",
+          "name": "RegDEEP™ - Regulatory Decoding & Exam-Oriented Knowledge Infrastructure (Global + India)"
+}
+
+],
+"hasPart": [
+ {
+  "@type": "WebPage",
+ "@id": "https://learn.gurukulonroad.com/courses/FINRA-SIE-PrepPro--FINRA-SIE-Exam-Preparation-Simulation-Test-Practice-Test--Mock-Test-with-1400-Questions-and-Detailed-Answer-Explanations-66556e9da08295623b89ea0d-66556e9da08295623b89ea0d#webpage",
+ "url": "https://learn.gurukulonroad.com/courses/FINRA-SIE-PrepPro--FINRA-SIE-Exam-Preparation-Simulation-Test-Practice-Test--Mock-Test-with-1400-Questions-and-Detailed-Answer-Explanations-66556e9da08295623b89ea0d-66556e9da08295623b89ea0d",
+ "name": "FINRA SIE PrepPro - FINRA SIE Exam Simulation Test, Practice Test & Mock Test with 1400+ Questions"
+}
+],
+"isBasedOn": [
+                {
+                 "@type": "CreativeWork",
+                  "@id": "https://www.gurukulonroad.com/#regdeep-research-business-challenges",
+                   "url": "https://www.gurukulonroad.com/p/finra-sec-training-bpo-kpo-gcc-india.html#challenges",
+                   "name": "RegDEEP™ Independent Research on BPO, KPO, and GCC Business Challenges & Talent Pipeline Strategy for U.S. Financial Services Operations",
+                   "description": "An independent internal research initiative under the RegDEEP™ framework examining how BPOs, KPOs, and Global Capability Centers (GCCs) build regulatory-ready talent pipelines to support financial services processes outsourced from the United States to India. The research focuses on licensing requirements, regulatory knowledge capability, workforce readiness, and cost drivers associated with roles where U.S. regulatory examinations or certifications may be required by regulators or by regulated financial institutions."
+            }
+],
+"mentions": [
+ {
+  "@type": "CreativeWorkSeries",
+  "@id": "https://www.gurukulonroad.com/#regdeep-nism-series26",
+  "url": "https://www.gurukulonroad.com/p/regdeep-nism-exam-prep-series-2026.html",
+  "name": "RegDEEP™ NISM Exam Prep Series 2026 Examiner-Grade Preparation Built on RankSeparator™ AssessmentIntent™ & QuantIntent™ Framework"
+}
+],
+
+"about": [
+    
+         {
+          "@type": "CreativeWorkSeries",
+          "@id": "https://www.gurukulonroad.com/#regdeep-global",
+          "url": "https://www.gurukulonroad.com/p/regdeep-global-regulatory-certification.html",
+          "name": "RegDEEP™ Global Regulatory Certification Series"
+          },
+{
+                     "@type": "Service",
+                      "@id": "https://www.gurukulonroad.com/p/finra-sec-training-bpo-kpo-gcc-india.html#service-regdeep-global-finra-capability", 
+                       "url": "https://www.gurukulonroad.com/p/finra-sec-training-bpo-kpo-gcc-india.html",
+                       "name": "GurukulOnRoad - RegDEEP™ Global Financial Regulatory Certification & Capability Building Programme for BPOs, GCCs, KPOs in India",
+                        "alternateName": "RegDEEP™ Global FINRA Certification Capability Programme"
+      
+               },
+{
+"@type": "DefinedTerm",
+"name": "SIE One-Page Visual Master Map - RegDEEP™",
+"alternateName": "Unified SIE Master Table Dataset",
+"description": "A structured educational dataset representing the SIE One-Page Visual Master Map designed for Indian learners preparing for the FINRA Securities Industry Essentials (SIE) examination. The dataset organizes core U.S. securities market concepts into 10 structured learning sections covering 45 key concepts. Each entry preserves four instructional layers: the original U.S. concept, its functional description or regulatory role, a practical example or key feature, and an Indian contextual analogy used solely as a conceptual learning bridge. The U.S. concept reflects the actual structure and terminology used in the SIE examination, while the Indian analogy is provided only as a pedagogical aid and must not be interpreted as the official or tested answer framework."
+},
+{
+  "@type": "WebPage",
+  "@id": "https://www.finra.org/registration-exams-ce/qualification-exams/#official-finra-sie",
+  "url": "https://www.finra.org/registration-exams-ce/qualification-exams/securities-industry-essentials-exam",
+  "name": "Securities Industry Essentials - Official FINRA.Org SIE Exam Page"
+ },
+{
+  "@type": "CreativeWork",
+  "@id": "https://www.finra.org/registration-exams-ce/qualification-exams/#official-finra-sie-outline-pdf",
+  "url": "https://www.finra.org/sites/default/files/2025-10/SIE_Content_Outline.pdf",
+  "name": "Securities Industry Essentials (SIE) Exam Content Outline",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Financial Industry Regulatory Authority (FINRA)"
+  }
+},
+
+{
+      "@type": "DefinedTerm",
+      "name": "Securities Industry Essentials (SIE)"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "US Securities Market Structure"
+    },
+    {
+      "@type": "DefinedTerm",
+      "name": "Indian Learning Analogies for US Securities Concepts"
+    }
+  ],
+"audience": {
+    "@type": "Audience",
+    "audienceType": "Indian professionals working with BPOs, KPOs, GCCs in regulated financial business processes and preparing for the FINRA series examination for FINRA SIE, Series 63, 65, 66"
+  },
+  "learningResourceType": [
+    "Visual Master Map",
+    "Structured Educational Dataset",
+    "One-Page Revision View",
+    "Cognitive Microlearning Map"
+  ],
+  "educationalUse": [
+    "Exam preparation",
+    "Conceptual bridge-building",
+    "Revision",
+    "Structured learning",
+    "Machine-assisted knowledge discovery"
+  ],
+ 
+ "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+ "isAccessibleForFree": true,
+"distribution": [
+ {
+ "@type": "DataDownload",
+ "encodingFormat": "application/json",
+ "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/08_RegDEEP_Global/datasets/FINRA_Certification_Track_USA/datasets/RegDEEP-Pedagogical-Cognitive-Micro-Learning-SIE-One-Page-Visual-Map-V1.0.json"
+ }
+ ],
+  "usageInfo": "This dataset should be used as a conceptual orientation and structured learning aid for understanding key topics covered in the FINRA Securities Industry Essentials (SIE) examination. The U.S. concepts presented in the dataset reflect the actual market structure, regulatory environment, and terminology used in the SIE exam. Any Indian contextual analogy included in the dataset is provided solely to support faster conceptual understanding for Indian professionals and learners through the RegDEEP™ pedagogy. These analogies are intended only as learning aids and should not be treated as the answer framework in the actual examination. How to use this map: Read each section as a visual memory cluster. First learn the US concept, then understand the role, then attach the feature/example, and only then use the Indian analogy as a memory bridge. In the actual SIE exam, always answer using the US framework. This dataset is an independently developed educational resource created using the RegDEEP™ framework to support conceptual understanding of topics covered in the FINRA Securities Industry Essentials (SIE) examination. It is intended as a structured learning aid for professionals and learners and should not be interpreted as official material. The dataset is not produced, endorsed, or affiliated with FINRA or any regulatory authority.",
+
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Core Learning Sections",
+      "value": 10
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Key SIE Concepts",
+      "value": 45
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Comparison Types",
+      "value": 3
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "One-Page Revision View",
+      "value": 1
+    }
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Subtitle",
+      "value": "A one-page visual master map of the FINRA Securities Industry Essentials (SIE) exam designed specifically for Indian learners. This canvas-style framework organizes the U.S. securities market structure, financial products, trading mechanisms, market participants, and regulatory ecosystem into a single structured learning view. The U.S. concept column reflects the actual knowledge areas tested in the FINRA SIE examination. The Indian analogy column serves only as a conceptual learning bridge to help Indian professionals quickly understand unfamiliar U.S. market concepts without confusing them with Indian regulatory rules. This example also demonstrates how RegDEEP™ translates complex regulatory frameworks into learner-friendly microlearning structures that align with the learner’s cognitive starting point, making global regulatory knowledge easier to grasp, remember, and apply."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Important Learning Rule",
+      "value": "The SIE exam tests US concepts, not Indian regulation. Use the Indian analogy only to understand the idea faster. In the actual exam, always think in terms of the US structure, US market practice, and US regulatory environment."
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Analogy Legend",
+      "value": "Closely Comparable; Loosely Comparable; Global / Same Concept"
+    }
+  ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "@id": "https://example.com/#itemlist-sie-master-map-sections",
+    "name": "SIE One-Page Visual Master Map - Core Learning Sections",
+    "numberOfItems": 10,
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Regulatory Structure",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-regulatory-structure",
+          "name": "Regulatory Structure",
+          "description": "Who governs and protects the market ecosystem",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "SEC",
+              "item": {
+                "@type": "ItemList",
+                "name": "SEC row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "US Concept",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "SEC"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Description / Role",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Federal securities regulator overseeing securities markets."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Example / Key Feature",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Enforces securities laws, regulates public securities issuance, market disclosures, exchanges, and investor protection standards across the U.S. securities ecosystem."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Indian Analogy",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Comparable to SEBI as the principal market regulator. For an Indian learner, think of SEC as the primary U.S. securities watchdog that plays the top-level market oversight role that SEBI plays in India, though the U.S. structure has its own separate institutions and rule architecture. Closely Comparable"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "FINRA",
+              "item": {
+                "@type": "ItemList",
+                "name": "FINRA row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "US Concept",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "FINRA"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Description / Role",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Self-Regulatory Organization supervising broker-dealers."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Example / Key Feature",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Licensing, compliance, broker conduct, sales practice oversight, supervision standards, continuing obligations, and frontline monitoring of broker-dealer behavior."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Indian Analogy",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "No direct India equivalent; AMFI-like comparison only in limited context. As a cognitive bridge, an Indian learner may loosely think of FINRA as a market-conduct and intermediary-supervision body focused specifically on broker-dealers, but unlike AMFI, FINRA has much deeper regulatory, examination, disciplinary, and licensing authority within the U.S. broker-dealer system. Loosely Comparable"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Federal Reserve",
+              "item": {
+                "@type": "ItemList",
+                "name": "Federal Reserve row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "US Concept",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Federal Reserve"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Description / Role",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Central bank responsible for monetary policy."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Example / Key Feature",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Interest rates and liquidity management, banking system influence, macroeconomic stability, and monetary control affecting credit conditions and market liquidity."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Indian Analogy",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Comparable to RBI. For an Indian learner, the easiest bridge is to think of the Federal Reserve as the U.S. central bank playing a role similar to RBI in monetary direction, liquidity conditions, and broader financial stability. Closely Comparable"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "SIPC",
+              "item": {
+                "@type": "ItemList",
+                "name": "SIPC row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "US Concept",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "SIPC"
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Description / Role",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Investor protection organization."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Example / Key Feature",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Protects brokerage customer assets if firm fails, subject to limits and conditions; it is about custody protection in firm failure situations, not protection from market loss."
+                    }
+                  },
+                  {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Indian Analogy",
+                    "item": {
+                      "@type": "CreativeWork",
+                      "text": "Investor protection style comparison only. For an Indian learner, treat SIPC as a limited customer asset-protection mechanism linked to brokerage failure, not as a direct equivalent to any one Indian institution. The bridge is the idea of investor protection support, but the legal structure is distinctly U.S.-specific. Loosely Comparable"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Market Participants",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-market-participants",
+          "name": "Market Participants",
+          "description": "Who creates, trades, advises, safeguards, and settles",
+          "numberOfItems": 6,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Issuer",
+              "item": {
+                "@type": "ItemList",
+                "name": "Issuer row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Issuer" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Entity creating securities." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Company issuing shares, bonds, or other securities to raise capital from investors in the primary market." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Indian companies issuing securities. As a cognitive bridge, think of an issuer exactly as a company, institution, or government body that comes to the market to raise money through shares or debt instruments. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Broker-Dealer",
+              "item": {
+                "@type": "ItemList",
+                "name": "Broker-Dealer row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Broker-Dealer" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Firm executing trades for clients or own account." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Securities trading, order execution, client intermediation, and in some cases dealing for the firm’s own inventory or market-making activity." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "SEBI-registered stock brokers. For an Indian learner, this is the nearest bridge to the stock-broking and dealing function seen in Indian markets, though the U.S. broker-dealer model carries its own licensing, supervisory, and conduct rules. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Investment Adviser",
+              "item": {
+                "@type": "ItemList",
+                "name": "Investment Adviser row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Investment Adviser" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Provides investment advice." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Portfolio guidance, advisory recommendations, suitability-oriented discussion, and professional support on investment decisions." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "SEBI-registered investment advisers. The cognitive bridge is straightforward: think of this role as the professional advisory side of investing rather than the trade execution side. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Market Maker",
+              "item": {
+                "@type": "ItemList",
+                "name": "Market Maker row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Market Maker" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Provides continuous buy/sell quotes." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Liquidity provider supporting tradability by standing ready to quote both bid and ask prices in the market." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Market making functions on Indian exchanges. For an Indian learner, think of this as the liquidity-support role sometimes seen in specific Indian market segments, though the U.S. market-maker framework is more central to how certain securities trade. Loosely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Custodian",
+              "item": {
+                "@type": "ItemList",
+                "name": "Custodian row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Custodian" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Safekeeping of securities." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Custody of client assets, record maintenance, settlement support, and institutional safekeeping responsibilities." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Custodian banks in India. This is a close bridge: think of the custodian as the institutional safekeeper of securities and related holdings. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Clearing Corporation",
+              "item": {
+                "@type": "ItemList",
+                "name": "Clearing Corporation row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Clearing Corporation" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Clears and settles trades." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Post-trade settlement, trade matching, netting, clearing assurance, and completion support after execution happens in the market." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Indian clearing corporations. For an Indian learner, the bridge is direct: this is the post-trade infrastructure layer that helps ensure trades are completed properly after execution. Closely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Market Structure",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-market-structure",
+          "name": "Market Structure",
+          "description": "Where new securities are issued and existing ones trade",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Primary Market",
+              "item": {
+                "@type": "ItemList",
+                "name": "Primary Market row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Primary Market" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Issuance of new securities." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "IPO or other new issuance where capital is raised directly from investors for the issuer." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "IPO issuance in India. The bridge is simple: think of the primary market as the first sale of a new security to investors. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Secondary Market",
+              "item": {
+                "@type": "ItemList",
+                "name": "Secondary Market row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Secondary Market" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Trading of existing securities." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Exchange trading or other market trading where investors buy and sell already-issued securities among themselves." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Stock exchange trading in India. For an Indian learner, this is the everyday trading market after the security has already been issued. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Third Market",
+              "item": {
+                "@type": "ItemList",
+                "name": "Third Market row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Third Market" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "OTC trading of exchange-listed securities." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Institutional trading of listed securities away from the exchange floor or main exchange channel." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Off-exchange institutional style activity. The cognitive bridge is only partial: think of this as listed securities trading outside the main exchange venue, typically in more institutional contexts. Loosely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Fourth Market",
+              "item": {
+                "@type": "ItemList",
+                "name": "Fourth Market row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Fourth Market" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Direct institutional trading." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Block trades or direct large-volume institutional transactions occurring without traditional broker intermediation." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Direct institutional transaction concept. For an Indian learner, think of this as large institutions trading directly with each other, but remember the U.S. label and structure are specific to its market history. Loosely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Securities Products",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-securities-products",
+          "name": "Securities Products",
+          "description": "Core instruments tested in the SIE framework",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Common Stock",
+              "item": {
+                "@type": "ItemList",
+                "name": "Common Stock row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Common Stock" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Equity ownership in company." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Dividends and price appreciation potential, along with ownership rights such as voting depending on the security structure." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Equity shares in India. The cognitive bridge is direct: think of common stock as the standard ownership share of a company. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Preferred Stock",
+              "item": {
+                "@type": "ItemList",
+                "name": "Preferred Stock row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Preferred Stock" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Hybrid security with fixed dividend." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Limited ownership rights with preference over common shareholders in dividend and liquidation priority." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Preference shares in India. For an Indian learner, the easiest bridge is to treat it as a preference-style hybrid instrument sitting between pure debt and ordinary equity in some respects. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Corporate Bonds",
+              "item": {
+                "@type": "ItemList",
+                "name": "Corporate Bonds row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Corporate Bonds" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Debt issued by corporations." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Interest payments, scheduled repayment, issuer credit exposure, and fixed-income characteristics linked to corporate borrowing." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Corporate bonds in India. This is a close conceptual bridge: a company borrows from investors and promises repayment with interest. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Treasury Securities",
+              "item": {
+                "@type": "ItemList",
+                "name": "Treasury Securities row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Treasury Securities" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Government debt securities." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "U.S. government obligation generally viewed as having very high credit quality within the domestic sovereign context." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Government securities in India. The bridge is to think of Treasury securities as the sovereign borrowing instruments of the U.S., similar in concept to Government of India securities. Closely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Debt Security Features",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-debt-security-features",
+          "name": "Debt Security Features",
+          "description": "Terms required for bond understanding and interpretation",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Par Value",
+              "item": {
+                "@type": "ItemList",
+                "name": "Par Value row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Par Value" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Face value of bond." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "$1,000 bond face amount used as the reference for repayment and coupon calculations in many U.S. bond examples." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same as Indian bond face value. The bridge is direct: par value is the principal reference amount printed or defined for the bond. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Coupon",
+              "item": {
+                "@type": "ItemList",
+                "name": "Coupon row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Coupon" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Interest payment rate." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "5% coupon meaning the bond pays interest based on its face value at the stated coupon rate." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same concept in Indian bonds. For cognition, think of coupon as the bond’s stated interest rate, not the investor’s market yield. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Yield",
+              "item": {
+                "@type": "ItemList",
+                "name": "Yield row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Yield" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Investor return." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Yield to maturity or related return measure showing what the investor effectively earns based on price, time, and cash flows." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same financial concept globally. The bridge is important: coupon is the stated rate, while yield reflects the investor’s actual return dynamics. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Maturity",
+              "item": {
+                "@type": "ItemList",
+                "name": "Maturity row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Maturity" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Time until repayment." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "10-year bond indicating the date or duration at which principal is scheduled to be repaid." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same concept globally. For an Indian learner, simply think of maturity as the bond’s end date. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Callable Feature",
+              "item": {
+                "@type": "ItemList",
+                "name": "Callable Feature row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Callable Feature" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Issuer may redeem early." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Callable bond feature allowing the issuer to repay before scheduled maturity under stated terms." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Comparable callable bond concept. The bridge is that the issuer gets an early-exit right, which can affect investor reinvestment risk and return expectations. Loosely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Options / Derivatives",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-options-derivatives",
+          "name": "Options / Derivatives",
+          "description": "Core derivatives terms needed for SIE understanding",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Call Option",
+              "item": {
+                "@type": "ItemList",
+                "name": "Call Option row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Call Option" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Right to buy underlying asset." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Used when expecting price rise, because the holder benefits if the underlying market price moves above the strike price." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Indian call option. The bridge is highly direct: think of it as the right to buy, used in bullish expectation scenarios. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Put Option",
+              "item": {
+                "@type": "ItemList",
+                "name": "Put Option row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Put Option" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Right to sell underlying asset." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Used when expecting price fall, because the holder benefits if the underlying market price moves below the strike price." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Indian put option. The cognitive bridge is direct: think of it as the right to sell, used in bearish expectation scenarios. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Strike Price",
+              "item": {
+                "@type": "ItemList",
+                "name": "Strike Price row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Strike Price" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Exercise price of option." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "$50 strike meaning the contract’s pre-agreed price at which the underlying may be bought or sold." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same concept globally. For learning, treat strike as the contract anchor price around which option value logic is built. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Premium",
+              "item": {
+                "@type": "ItemList",
+                "name": "Premium row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Premium" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Price paid for option." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "$3 premium showing the amount the option buyer pays upfront to acquire the contract right." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same concept in options markets. The bridge is exact: premium is the cost of purchasing the option contract. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Expiration",
+              "item": {
+                "@type": "ItemList",
+                "name": "Expiration row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Expiration" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Last exercise date." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Monthly expiry or another defined expiry cycle after which the option no longer exists." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Comparable to Indian expiry cycle. For an Indian learner, think of it as the option’s validity deadline. Closely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Investment Risks",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-investment-risks",
+          "name": "Investment Risks",
+          "description": "Major risk ideas that shape security analysis and investor impact",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Market Risk",
+              "item": {
+                "@type": "ItemList",
+                "name": "Market Risk row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Market Risk" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Market-wide price movements." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Portfolio decline caused by broad market conditions rather than by one single issuer-specific event." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same across markets. The bridge is exact: this is the general risk that the whole market or asset class may move against the investor. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Credit Risk",
+              "item": {
+                "@type": "ItemList",
+                "name": "Credit Risk row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Credit Risk" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Issuer default risk." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Bond loss or repayment uncertainty arising because the borrower may fail to pay interest or principal." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Credit risk in Indian bonds. This is a close bridge: think of the risk that the issuer may not honor its debt obligations. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Interest Rate Risk",
+              "item": {
+                "@type": "ItemList",
+                "name": "Interest Rate Risk row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Interest Rate Risk" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Bond prices move opposite rates." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Bond value change when market interest rates rise or fall, especially important in fixed-income investing." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same fixed income concept. The bridge is global and exact: when rates rise, existing bond prices generally fall, and vice versa. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Liquidity Risk",
+              "item": {
+                "@type": "ItemList",
+                "name": "Liquidity Risk row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Liquidity Risk" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Difficulty selling quickly." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Price discount or execution difficulty because the asset cannot be sold easily at a fair price when needed." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same concept in thinly traded assets. For learning, think of liquidity risk as the danger of being stuck or forced to sell cheaply. Global Concept" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Inflation Risk",
+              "item": {
+                "@type": "ItemList",
+                "name": "Inflation Risk row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Inflation Risk" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Purchasing power erosion." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Lower real return because inflation reduces what the future value of money can actually buy." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Same investment concern globally. The cognitive bridge is exact: even if money grows nominally, inflation may weaken real wealth. Global Concept" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Trading Orders",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-trading-orders",
+          "name": "Trading Orders",
+          "description": "How investors instruct execution in the market",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Market Order",
+              "item": {
+                "@type": "ItemList",
+                "name": "Market Order row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Market Order" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Immediate execution." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Price uncertain because the order prioritizes speed of execution over control of the final execution price." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Market order in India. The bridge is direct: the investor wants the trade done quickly, even if the exact price moves slightly. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Limit Order",
+              "item": {
+                "@type": "ItemList",
+                "name": "Limit Order row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Limit Order" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Controls execution price." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "May not execute because the investor sets an acceptable price boundary and the market may never reach it." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Limit order in India. For an Indian learner, think of it as prioritizing price discipline over certainty of execution. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Stop Order",
+              "item": {
+                "@type": "ItemList",
+                "name": "Stop Order row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Stop Order" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Trigger price activates order." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Risk protection mechanism where hitting a trigger level activates the order for execution." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Stop-loss style mechanism. The cognitive bridge is partial but useful: think of it as a trigger-based order used to manage downside or breakout situations. Loosely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Good-Till-Canceled",
+              "item": {
+                "@type": "ItemList",
+                "name": "Good-Till-Canceled row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Good-Till-Canceled" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Order remains active." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Persistent order that stays open until executed or canceled, rather than expiring at the end of the trading day." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Comparable platform concept. For an Indian learner, think of it as an order-validity choice where the instruction remains live for longer than a regular day order. Loosely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 9,
+        "name": "Customer Account Types",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-customer-account-types",
+          "name": "Customer Account Types",
+          "description": "Different account structures used by investors",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Cash Account",
+              "item": {
+                "@type": "ItemList",
+                "name": "Cash Account row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Cash Account" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Investor pays full value." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Standard investing account where the investor purchases securities using fully available funds rather than borrowed funds." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Regular trading account. The bridge is straightforward: this is the normal pay-in-full investing structure. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Margin Account",
+              "item": {
+                "@type": "ItemList",
+                "name": "Margin Account row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Margin Account" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Borrow funds from broker." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Leveraged trading account allowing the investor to purchase securities partly using borrowed money subject to margin rules." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Margin trading account. For learning, think of it as an account that amplifies both opportunity and risk through borrowing. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Options Account",
+              "item": {
+                "@type": "ItemList",
+                "name": "Options Account row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Options Account" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Used for derivatives trading." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Hedging or speculation account access for options strategies, typically involving approval levels and suitability checks." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Derivatives-enabled trading account. The bridge is close: this is the account setup through which options-based trading and risk strategies are executed. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Retirement Account",
+              "item": {
+                "@type": "ItemList",
+                "name": "Retirement Account row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Retirement Account" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Tax-advantaged savings structure." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Retirement investing vehicle designed for long-term savings with tax-related treatment under U.S. rules." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Only loosely comparable to retirement vehicles. For an Indian learner, think of this as a long-term retirement-focused account category, but do not map it one-to-one with Indian retirement products because the U.S. tax and account rules are distinct. Loosely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 10,
+        "name": "Prohibited Activities",
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://example.com/#section-prohibited-activities",
+          "name": "Prohibited Activities",
+          "description": "Misconduct and market abuse concepts tested in principle",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Insider Trading",
+              "item": {
+                "@type": "ItemList",
+                "name": "Insider Trading row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Insider Trading" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Trading using material non-public information." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Market abuse where an unfair informational advantage is used for trading before the information becomes public." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Comparable enforcement concept. For an Indian learner, think of this as prohibited trading based on unpublished price-sensitive information or equivalent unfair non-public advantage. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Front Running",
+              "item": {
+                "@type": "ItemList",
+                "name": "Front Running row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Front Running" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Trading ahead of client orders." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Breach of duty where a professional trades in advance of a known client order to benefit personally or institutionally." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Similar misconduct principle. The bridge is close: it is misuse of advance order knowledge for unfair gain. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Pump and Dump",
+              "item": {
+                "@type": "ItemList",
+                "name": "Pump and Dump row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Pump and Dump" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Artificial price inflation." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Market manipulation scheme in which hype or false promotion pushes the price up before insiders sell out." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Comparable market manipulation concept. For an Indian learner, think of it as a classic manipulation pattern where artificial excitement is created to trap later buyers. Closely Comparable" } }
+                ]
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Excessive Trading",
+              "item": {
+                "@type": "ItemList",
+                "name": "Excessive Trading row",
+                "numberOfItems": 4,
+                "itemListElement": [
+                  { "@type": "ListItem", "position": 1, "name": "US Concept", "item": { "@type": "CreativeWork", "text": "Excessive Trading" } },
+                  { "@type": "ListItem", "position": 2, "name": "Description / Role", "item": { "@type": "CreativeWork", "text": "Over-trading customer accounts." } },
+                  { "@type": "ListItem", "position": 3, "name": "Example / Key Feature", "item": { "@type": "CreativeWork", "text": "Client harm caused when an account is traded too frequently relative to the customer’s interests, often to generate commissions or activity." } },
+                  { "@type": "ListItem", "position": 4, "name": "Indian Analogy", "item": { "@type": "CreativeWork", "text": "Comparable to churning. The bridge is direct: it is unnecessary transaction-heavy activity that damages the client’s interest. Closely Comparable" } }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
