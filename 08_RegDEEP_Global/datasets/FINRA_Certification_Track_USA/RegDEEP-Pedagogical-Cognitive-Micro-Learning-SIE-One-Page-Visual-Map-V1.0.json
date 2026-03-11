@@ -249,7 +249,7 @@
   ],
   "mainEntity": {
     "@type": "ItemList",
-    "@id": "https://example.com/#itemlist-sie-master-map-sections",
+    "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist",
     "name": "SIE One-Page Visual Master Map - Core Learning Sections",
     "numberOfItems": 10,
     "itemListOrder": "https://schema.org/ItemListOrderAscending",
@@ -260,7 +260,7 @@
         "name": "Regulatory Structure",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-regulatory-structure",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-regulatory-structure",
           "name": "Regulatory Structure",
           "description": "Who governs and protects the market ecosystem",
           "numberOfItems": 4,
@@ -466,7 +466,7 @@
         "name": "Market Participants",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-market-participants",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-market-participants",
           "name": "Market Participants",
           "description": "Who creates, trades, advises, safeguards, and settles",
           "numberOfItems": 6,
@@ -576,7 +576,7 @@
         "name": "Market Structure",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-market-structure",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-market-structure",
           "name": "Market Structure",
           "description": "Where new securities are issued and existing ones trade",
           "numberOfItems": 4,
@@ -654,7 +654,7 @@
         "name": "Securities Products",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-securities-products",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-securities-products",
           "name": "Securities Products",
           "description": "Core instruments tested in the SIE framework",
           "numberOfItems": 4,
@@ -732,7 +732,7 @@
         "name": "Debt Security Features",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-debt-security-features",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-debt-security-features",
           "name": "Debt Security Features",
           "description": "Terms required for bond understanding and interpretation",
           "numberOfItems": 5,
@@ -826,7 +826,7 @@
         "name": "Options / Derivatives",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-options-derivatives",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-options-derivatives",
           "name": "Options / Derivatives",
           "description": "Core derivatives terms needed for SIE understanding",
           "numberOfItems": 5,
@@ -920,7 +920,7 @@
         "name": "Investment Risks",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-investment-risks",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-investment-risks",
           "name": "Investment Risks",
           "description": "Major risk ideas that shape security analysis and investor impact",
           "numberOfItems": 5,
@@ -1014,7 +1014,7 @@
         "name": "Trading Orders",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-trading-orders",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-trading-orders",
           "name": "Trading Orders",
           "description": "How investors instruct execution in the market",
           "numberOfItems": 4,
@@ -1092,7 +1092,7 @@
         "name": "Customer Account Types",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-customer-account-types",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-customer-account-types",
           "name": "Customer Account Types",
           "description": "Different account structures used by investors",
           "numberOfItems": 4,
@@ -1170,7 +1170,7 @@
         "name": "Prohibited Activities",
         "item": {
           "@type": "ItemList",
-          "@id": "https://example.com/#section-prohibited-activities",
+          "@id": "https://www.gurukulonroad.com/#dataset-regdeep-pedagogy-demo-itemlist-section-prohibited-activities",
           "name": "Prohibited Activities",
           "description": "Misconduct and market abuse concepts tested in principle",
           "numberOfItems": 4,
