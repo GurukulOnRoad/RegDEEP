@@ -1,0 +1,404 @@
+{
+  "@type": "Dataset",
+  "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model",
+  "url": "https://www.gurukulonroad.com/p/us-taxation-training-bpo-kpo-gcc-india.html",
+  "name": "HCAM™ Master Training Model & Framework for RegDEEP™ U.S. Business Taxation & International Compliance Training Designed for BPOs, KPOs, & GCCs Operating in India",
+  "alternateName": "RegDEEP™ FLOW FILTER SPLIT REPORT CONTROL - U.S. Taxation Mental Model Dataset",
+  "description": "A single-container Dataset modeling the HCAM™ Master Model for U.S. Taxation as a structured cognitive framework. The dataset organizes the full syllabus into five stages -FLOW, FILTER, SPLIT, REPORT, and CONTROL -along with mental models, syllabus coverage, anchors, one-line memory aids, a compression table, RegDEEP insight prompts, and signature-framework uses.",
+  "mainEntityOfPage": { "@id": "https://www.gurukulonroad.com/p/us-taxation-training-bpo-kpo-gcc-india.html#webpage" },
+  "inLanguage": "en-US",
+  "version": "1.0",
+ "datePublished": "2026-04-01",
+ "dateModified": "2026-04-01",
+ "identifier": "REGDEEP-HCAM-US-TAXATION-TRAINING-MASTER-MODEL-BPO-KPO-GCC-V1.0",
+ "usageInfo": "HCAM™ Master Training Model & Framework for RegDEEP™ U.S. Business Taxation & International Compliance Training designed for BPOs, KPOs, and GCCs operating in India is an independently developed educational and training framework based on internal research, instructional design methodologies, and cognitive structuring tailored to the learning starting point of Indian professionals. This framework is not approved, endorsed, or affiliated with any government body, regulator, or certification authority, including but not limited to the Internal Revenue Service (IRS), Financial Industry Regulatory Authority (FINRA), Securities and Exchange Commission (SEC), Chartered Institute for Securities & Investment (CISI), or any similar institution.",
+ "about": [
+           {
+          "@type": "CreativeWorkSeries",
+          "@id": "https://www.gurukulonroad.com/#regdeep-global",
+          "url": "https://www.gurukulonroad.com/p/regdeep-global-regulatory-certification.html",
+          "name": "RegDEEP™ Global Regulatory Certification Series",
+          "alternateName": "RegDEEP™ Global Regulatory Certification Series for BPOs , KPOs, & GCCs Capability Building",
+          "description": "RegDEEP™ Global Regulatory Certification Series 2026 is the global certification capability layer of the broader RegDEEP™ framework, designed to support organizations building regulatory-ready financial services teams across global markets. The series brings together certification pathways, regulatory knowledge, exam preparation, and role-linked operational capability for GCCs, BPOs, KPOs, and other delivery environments supporting regulated financial institutions. Its active focus includes the FINRA certification track in the United States, covering FINRA SIE, Series 63, Series 65, Series 7, and Series 24. The series also provides an expandable structure for need-based United Kingdom certification tracks such as CISI IOC, CISI Securities, and CISI Wealth Management, along with future Asia-Pacific pathways including Singapore CMS and other regional market certifications. Each track is intended to connect certification readiness with business-process relevance, workforce capability development, and long-term talent pipeline building. The series is structured as a durable umbrella layer so that certification tracks, modules, and market-specific pathways may expand over time without requiring a change to the core series definition. This series is a persistent evolving knowledge series under the principle of living & Evolving CreativeWorkSeries architecture.",
+          "disambiguatingDescription": "RegDEEP™ Global Regulatory Certification Series 2026 is an independent regulatory knowledge and certification capability-building program under the RegDEEP™ framework designed for BPOs, KPOs, and GCCs supporting global financial services operations; the program is not affiliated with, endorsed by, or officially associated with any financial regulator, certification body, or regulatory authority including FINRA, SEC, CISI, or similar institutions."
+        },
+                {
+          "@type": ["CreativeWork","DefinedTerm"],
+          "additionalType": "Framework",
+          "@id": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html#regdeeproot",
+          "url": "https://www.gurukulonroad.com/p/regulatory-circulars-decoded.html#regdeeproot",
+          "name": "RegDEEP™"
+        },
+        {
+          "@type": ["CreativeWork", "DefinedTerm"],
+          "additionalType": "Framework",
+          "@id": "https://ai.gurukulonroad.com/#hcam-framework-canonical",
+          "url": "https://ai.gurukulonroad.com/p/hinglish-cognitive-anchoring-model.html",
+          "name": "Hinglish Cognitive Anchoring Model™ (HCAM™)"
+        }
+],
+  "creator": { "@type": "Organization", "@id": "https://ai.gurukulonroad.com/#organization", "url": "https://ai.gurukulonroad.com" },
+  "license": "https://github.com/GurukulOnRoad/RegDEEP/blob/main/LICENSE.md",
+   "isAccessibleForFree": true,
+             "distribution": [
+                 {
+                   "@type": "DataDownload",
+                    "encodingFormat": "application/json",
+                     "contentUrl": "https://raw.githubusercontent.com/GurukulOnRoad/RegDEEP/main/05_Corporate_Adaptation_Framework/05.1_bpo-kpo-gcc-alignment-model/datasets/REGDEEP-HCAM-US-TAXATION-TRAINING-MASTER-MODEL-BPO-KPO-GCC-V1.0.json"
+ }
+ ],
+  "keywords": [
+    "US Taxation",
+    "HCAM",
+    "Mental Model",
+    "Tax Training",
+    "Corporate Taxation",
+    "Partnership Taxation",
+    "International Taxation",
+    "Form 1120",
+    "Form 1065",
+    "Form 5471",
+    "Form 8858",
+    "IRS Compliance",
+    "RegDEEP"
+  ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "HCAM U.S. Taxation Master Model Contents",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-intro",
+          "name": "Introductory Framework Statement",
+          "text": "The entire U.S. Business & Entity Taxation & International Compliance Program syllabus is converted into a multi-layer HCAM™ Master Model built around FLOW → FILTER → SPLIT → REPORT → CONTROL, where each stage functions as a mental engine."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-five-stage-model",
+          "name": "Five-Stage HCAM™ Master Model",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "CreativeWork",
+                "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-flow",
+                "name": "FLOW - Income Movement Engine",
+                "description": "Money is flowing through pipes across entities and borders.",
+                "teaches": [
+                  "Corporations (Form 1120)",
+                  "Partnerships (Form 1065)",
+                  "Disregarded Entities (Form 8858)",
+                  "Foreign Entities (CFC – Form 5471)",
+                  "Inbound vs Outbound income"
+                ],
+                "educationalUse": "Mental model for tracking where income moves before taxation.",
+                "about": {
+                  "@type": "DefinedTerm",
+                  "name": "Pipeline Network Model",
+                  "description": "Each entity is a pipe junction, income is water flowing, and cross-border movement is like international pipelines."
+                },
+                "text": "One-Line Memory: First track WHERE money is flowing before taxing it."
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "CreativeWork",
+                "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-filter",
+                "name": "FILTER - Tax Refinement Engine",
+                "description": "Raw income passes through filters to become taxable income.",
+                "teaches": [
+                  "Gross Income to AGI to Taxable Income",
+                  "Deductions (Business, Depreciation)",
+                  "Credits (Direct tax reduction)",
+                  "GILTI / Subpart F adjustments"
+                ],
+                "educationalUse": "Mental model for understanding tax adjustments and computation refinement.",
+                "about": {
+                  "@type": "DefinedTerm",
+                  "name": "Water Purification Plant Model",
+                  "description": "Raw water equals gross income, filters equal deductions, and the final output equals taxable income."
+                },
+                "text": "One-Line Memory: Not all income is taxed -only what survives the filters."
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@type": "CreativeWork",
+                "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-split",
+                "name": "SPLIT - Allocation and Distribution Engine",
+                "description": "Income is divided across people, places, and jurisdictions.",
+                "teaches": [
+                  "Partnership allocations (K-1)",
+                  "State apportionment",
+                  "Transfer pricing (related party split)",
+                  "Foreign vs US income allocation"
+                ],
+                "educationalUse": "Mental model for understanding how income is allocated among taxpayers and jurisdictions.",
+                "about": {
+                  "@type": "DefinedTerm",
+                  "name": "Pizza Slicing Model",
+                  "description": "Total income is the whole pizza, and partners, states, or countries are the slices."
+                },
+                "text": "One-Line Memory: After filtering, decide WHO gets taxed and WHERE."
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@type": "CreativeWork",
+                "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-report",
+                "name": "REPORT - Visibility and Disclosure Engine",
+                "description": "Everything must be reported in structured formats.",
+                "teaches": [
+                  "Form 1120 for Corporations",
+                  "Form 1065 for Partnerships",
+                  "Form 5471 for CFCs",
+                  "Form 8858 for Foreign entities",
+                  "K-1 for Individual allocations"
+                ],
+                "educationalUse": "Mental model for understanding compliance reporting and form-based disclosure.",
+                "about": {
+                  "@type": "DefinedTerm",
+                  "name": "Report Card System",
+                  "description": "Each entity submits its tax report card and the IRS reads structured disclosures."
+                },
+                "text": "One-Line Memory: If it is not reported, it does not exist for tax -but risk increases."
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@type": "CreativeWork",
+                "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-control",
+                "name": "CONTROL - Compliance and Enforcement Engine",
+                "description": "The system checks, enforces, and penalizes.",
+                "teaches": [
+                  "Internal Revenue Service (IRS)",
+                  "Audits",
+                  "Penalties and Interest",
+                  "Withholding and Estimated Taxes",
+                  "Compliance rules (CFC, TP, FTC)"
+                ],
+                "educationalUse": "Mental model for understanding enforcement, risk, and compliance oversight.",
+                "about": {
+                  "@type": "DefinedTerm",
+                  "name": "Traffic Police plus CCTV Model",
+                  "description": "IRS acts like police, forms act like cameras, and an audit acts like an investigation."
+                },
+                "text": "One-Line Memory: Tax is self-reported, but always monitored."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-compression-table",
+          "name": "Full Stack Memory Compression Table",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "CreativeWork",
+                "name": "FLOW Compression Row",
+                "text": "Stage: FLOW | What Happens: Income moves | Mental Image: Pipes"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "CreativeWork",
+                "name": "FILTER Compression Row",
+                "text": "Stage: FILTER | What Happens: Income refined | Mental Image: Filters"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@type": "CreativeWork",
+                "name": "SPLIT Compression Row",
+                "text": "Stage: SPLIT | What Happens: Income divided | Mental Image: Pizza"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@type": "CreativeWork",
+                "name": "REPORT Compression Row",
+                "text": "Stage: REPORT | What Happens: Income declared | Mental Image: Report Card"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@type": "CreativeWork",
+                "name": "CONTROL Compression Row",
+                "text": "Stage: CONTROL | What Happens: System enforced | Mental Image: Traffic Police"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-master-sequence",
+          "name": "Master Sequence",
+          "text": "FLOW → FILTER → SPLIT → REPORT → CONTROL"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-regdeep-insight",
+          "name": "RegDEEP Insight",
+          "numberOfItems": 5,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "Question",
+                "name": "FLOW Question",
+                "text": "Where is income coming from?"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "Question",
+                "name": "FILTER Question",
+                "text": "What adjustments apply?"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@type": "Question",
+                "name": "SPLIT Question",
+                "text": "Who or where is it allocated?"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@type": "Question",
+                "name": "REPORT Question",
+                "text": "Which form captures it?"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "item": {
+                "@type": "Question",
+                "name": "CONTROL Question",
+                "text": "What compliance risk exists?"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "item": {
+          "@type": "ItemList",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-signature-framework",
+          "name": "Signature Framework: RegDEEP™ Powered By HCAM™",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "item": {
+                "@type": "DefinedTerm",
+                "name": "Teaching Framework",
+                "description": "Can be used as an instructional architecture for explaining the full U.S. tax syllabus."
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "item": {
+                "@type": "DefinedTerm",
+                "name": "Case-Solving Engine",
+                "description": "Can be used to decode case studies through a repeatable sequence of questions."
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "item": {
+                "@type": "DefinedTerm",
+                "name": "MCQ Cracking Model",
+                "description": "Can be used as a memory and problem-solving shortcut for objective exams."
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "item": {
+                "@type": "DefinedTerm",
+                "name": "Visual Map Foundation",
+                "description": "Can serve as the base structure for a visual cognitive map of U.S. taxation."
+              }
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-summary",
+          "name": "Summary Statement",
+          "text": "This is not just a memory trick. It is a teaching framework, a case-solving engine, an MCQ cracking model, and a visual map foundation for U.S. taxation."
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "item": {
+          "@type": "CreativeWork",
+          "@id": "https://www.gurukulonroad.com/#dataset-hcam-us-taxation-master-model-container-note",
+          "name": "Single Container Modeling Note",
+          "text": "All sections are modeled under one Dataset container using nested ItemList, ListItem, and item nodes rather than multiple separate datasets."
+        }
+      }
+    ]
+  }
+}
